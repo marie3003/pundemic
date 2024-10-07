@@ -1,0 +1,19 @@
+id	patient_id	age	sex	ethnicity	continent	country	region	city	group	disease_subgroup	blinded_clinical_response	puns_per_hour_pre_treatment	puns_per_hour_post_treatment	time_point
+SRR10505123	D52	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t2
+SRR10505124	D46	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t2
+SRR10505125	D46	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t1
+SRR10505126	D41	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t1
+SRR10505127	D40	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t2
+SRR10505128	D40	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t1
+SRR10505129	D33	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t2
+SRR10505130	D33	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t1
+SRR10505143	D59	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t1
+SRR10505144	D55	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t2
+SRR10505145	D53	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t2
+SRR10505146	D43	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t2
+SRR10505147	D41	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t2
+SRR10505148	D6	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t2
+SRR10505149	D55	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t1
+SRR10505150	D54	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t2
+SRR10505151	D54	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t1
+SRR10505152	D53	Unknown	Unknown		Europe	Switzerland	Zurich	Zurich	Healthy	donor				t1
