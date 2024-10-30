@@ -2,3 +2,7 @@
 
 data/pundemic_forward_reads_trimmed.qza
 data/pundemic_forward_reads.qza
+data/pundemic_forward_reads_backward_trimmed.qza
+data/pundemic_forward_reads_both_trimmed.qza
+data/pundemic_forward_reads_trimmed_backtrimmed_03_QCfiltered_stats.qza
+data/pundemic_forward_reads_trimmed_backtrimmed_03.qza
