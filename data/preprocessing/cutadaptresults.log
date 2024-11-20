@@ -1,0 +1,4701 @@
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505051_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505051_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.733 s (19.634 µs/read; 3.06 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  37,345
+Reads with adapters:                    37,290 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        37,290 (99.9%)
+
+Total basepairs processed:     9,336,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      8,517,104 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 37290 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	2	0.0	2	0 1 1
+14	2	0.0	2	0 2
+15	2	0.0	3	0 2
+16	5	0.0	3	0 3 0 2
+17	4	0.0	3	0 2 1 1
+18	11	0.0	3	4 3 1 1 2
+19	18	0.0	3	0 0 2 16
+20	196	0.0	4	2 14 147 31 2
+21	14459	0.0	4	26 11712 2660 51 10
+22	22541	0.0	4	21387 971 145 25 13
+23	49	0.0	4	3 40 6
+36	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505052_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505052_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.366 s (21.841 µs/read; 2.75 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  16,777
+Reads with adapters:                    16,618 (99.1%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        16,618 (99.1%)
+
+Total basepairs processed:     4,194,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      3,794,898 bp (90.5%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 16618 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	3	262.1	0	3
+4	1	65.5	0	1
+5	2	16.4	1	0 2
+7	1	1.0	1	0 1
+13	1	0.0	2	0 0 1
+14	1	0.0	2	0 1
+16	1	0.0	3	0 0 1
+19	5	0.0	3	0 0 3 2
+20	54	0.0	4	0 3 39 12
+21	5913	0.0	4	8 4583 1275 45 2
+22	10574	0.0	4	8616 1476 450 26 6
+23	59	0.0	4	5 11 36 3 4
+24	1	0.0	4	0 0 0 1
+44	1	0.0	4	0 1
+128	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505053_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505053_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.699 s (18.622 µs/read; 3.22 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  91,253
+Reads with adapters:                    91,088 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        91,088 (99.8%)
+
+Total basepairs processed:    22,813,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     20,785,661 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 91088 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	1425.8	0	1
+10	2	0.1	2	1 1
+11	2	0.0	2	2
+13	8	0.0	2	5 3
+14	4	0.0	2	0 4
+15	4	0.0	3	2 2
+16	3	0.0	3	0 1 1 1
+17	14	0.0	3	6 4 2 2
+18	15	0.0	3	4 1 2 5 3
+19	31	0.0	3	1 3 9 17 1
+20	257	0.0	4	5 23 190 38 1
+21	16802	0.0	4	71 13986 2655 82 8
+22	73797	0.0	4	68728 3785 1158 94 32
+23	144	0.0	4	18 103 20 1 2
+24	3	0.0	4	0 0 3
+29	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505054_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505054_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.284 s (25.042 µs/read; 2.40 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  11,337
+Reads with adapters:                    11,312 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        11,312 (99.8%)
+
+Total basepairs processed:     2,834,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      2,589,817 bp (91.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 11312 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	11.1	1	0 1
+15	1	0.0	3	0 0 1
+16	1	0.0	3	0 0 0 1
+17	1	0.0	3	0 1
+18	2	0.0	3	0 0 1 1
+19	15	0.0	3	0 1 1 12 1
+20	129	0.0	4	0 3 81 43 2
+21	10374	0.0	4	0 7015 3309 45 5
+22	787	0.0	4	572 119 76 16 4
+61	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505055_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505055_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.648 s (28.364 µs/read; 2.12 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  22,858
+Reads with adapters:                    22,794 (99.7%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        22,794 (99.7%)
+
+Total basepairs processed:     5,714,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      5,217,295 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 22794 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+16	1	0.0	3	0 1
+17	6	0.0	3	0 3 2 1
+18	9	0.0	3	0 1 0 6 2
+19	21	0.0	3	0 2 1 11 7
+20	210	0.0	4	0 7 119 79 5
+21	19810	0.0	4	0 13909 5787 111 3
+22	2714	0.0	4	2044 507 134 24 5
+23	21	0.0	4	0 1 17 3
+61	1	0.0	4	0 1
+64	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505056_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505056_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.637 s (16.507 µs/read; 3.63 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 159,757
+Reads with adapters:                   159,581 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       159,581 (99.9%)
+
+Total basepairs processed:    39,939,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     36,391,259 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 159581 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	2496.2	0	1
+10	4	0.2	2	3 1
+12	2	0.0	2	0 0 2
+13	1	0.0	2	1
+14	7	0.0	2	5 2
+15	9	0.0	3	0 9
+16	7	0.0	3	0 6 0 1
+17	24	0.0	3	2 5 12 5
+18	20	0.0	3	7 7 1 5
+19	59	0.0	3	8 8 14 28 1
+20	153	0.0	4	9 12 122 9 1
+21	6229	0.0	4	74 5344 757 47 7
+22	152730	0.0	4	142852 7438 2265 128 47
+23	332	0.0	4	45 211 71 3 2
+24	1	0.0	4	0 0 0 0 1
+44	2	0.0	4	2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505057_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505057_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.494 s (24.735 µs/read; 2.43 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  19,972
+Reads with adapters:                    19,920 (99.7%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        19,920 (99.7%)
+
+Total basepairs processed:     4,993,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      4,554,901 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 19920 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+14	1	0.0	2	0 0 1
+15	3	0.0	3	2 0 1
+16	1	0.0	3	0 0 1
+17	8	0.0	3	2 5 1
+18	11	0.0	3	0 2 3 4 2
+19	59	0.0	3	0 0 10 34 15
+20	1018	0.0	4	0 19 678 315 6
+21	10823	0.0	4	26 7554 3157 79 7
+22	7983	0.0	4	6977 695 259 47 5
+23	12	0.0	4	1 6 3 0 2
+24	1	0.0	4	0 0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505058_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505058_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.039 s (17.680 µs/read; 3.39 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  58,741
+Reads with adapters:                    58,671 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        58,671 (99.9%)
+
+Total basepairs processed:    14,685,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     13,390,779 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 58671 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+12	2	0.0	2	1 1
+14	1	0.0	2	0 1
+16	6	0.0	3	0 3 3
+17	5	0.0	3	0 1 4
+18	20	0.0	3	0 7 1 8 4
+19	46	0.0	3	0 0 7 38 1
+20	827	0.0	4	3 33 694 94 3
+21	11935	0.0	4	97 10430 1355 44 9
+22	45727	0.0	4	42957 2419 306 27 18
+23	99	0.0	4	12 63 23 1
+24	3	0.0	4	0 0 3
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505059_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505059_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.812 s (21.271 µs/read; 2.82 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  38,184
+Reads with adapters:                    38,081 (99.7%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        38,081 (99.7%)
+
+Total basepairs processed:     9,546,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      8,703,604 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 38081 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	596.6	0	1
+5	2	37.3	1	0 2
+12	2	0.0	2	0 1 1
+14	1	0.0	2	0 0 1
+15	1	0.0	3	0 0 0 1
+16	3	0.0	3	0 2 1
+17	7	0.0	3	0 4 1 2
+18	9	0.0	3	3 1 1 1 3
+19	30	0.0	3	0 3 4 15 8
+20	259	0.0	4	4 15 166 58 16
+21	20457	0.0	4	9 15019 5267 140 22
+22	17222	0.0	4	13079 2786 1243 62 52
+23	84	0.0	4	2 23 35 10 14
+24	1	0.0	4	0 0 1
+32	2	0.0	4	0 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505060_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505060_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.485 s (27.504 µs/read; 2.18 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  17,632
+Reads with adapters:                    17,597 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        17,597 (99.8%)
+
+Total basepairs processed:     4,408,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      4,026,712 bp (91.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 17597 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+4	1	68.9	0	1
+15	1	0.0	3	0 1
+16	3	0.0	3	0 1 1 1
+17	2	0.0	3	0 2
+18	3	0.0	3	0 0 0 0 3
+19	13	0.0	3	0 3 2 8
+20	185	0.0	4	0 5 130 49 1
+21	14281	0.0	4	0 10821 3383 70 7
+22	3006	0.0	4	1724 828 415 30 9
+23	98	0.0	4	0 1 90 4 3
+27	1	0.0	4	0 1
+30	1	0.0	4	0 0 1
+40	1	0.0	4	0 1
+52	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505061_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505061_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.652 s (20.620 µs/read; 2.91 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  80,126
+Reads with adapters:                    79,982 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        79,982 (99.8%)
+
+Total basepairs processed:    20,031,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     18,241,497 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 79982 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	1252.0	0	1
+7	1	4.9	1	0 1
+11	1	0.0	2	0 0 1
+12	1	0.0	2	0 0 1
+13	1	0.0	2	1
+16	3	0.0	3	1 2
+17	4	0.0	3	0 3 1
+18	2	0.0	3	0 0 0 1 1
+19	7	0.0	3	0 0 4 2 1
+20	162	0.0	4	1 10 114 32 5
+21	5239	0.0	4	83 3767 1027 326 36
+22	74473	0.0	4	49231 18500 5778 863 101
+23	84	0.0	4	4 36 27 12 5
+25	3	0.0	4	0 0 0 0 3
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505062_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505062_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.819 s (19.664 µs/read; 3.05 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  41,625
+Reads with adapters:                    41,574 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        41,574 (99.9%)
+
+Total basepairs processed:    10,406,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      9,495,437 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 41574 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+14	1	0.0	2	0 1
+16	5	0.0	3	0 1 3 1
+17	6	0.0	3	0 1 1 4
+18	9	0.0	3	4 1 1 2 1
+19	25	0.0	3	0 4 3 17 1
+20	186	0.0	4	2 12 142 27 3
+21	16067	0.0	4	14 13430 2564 50 9
+22	25222	0.0	4	24012 1055 124 20 11
+23	53	0.0	4	8 41 4
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505063_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505063_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.424 s (15.973 µs/read; 3.76 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  89,119
+Reads with adapters:                    89,021 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        89,021 (99.9%)
+
+Total basepairs processed:    22,279,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     20,311,519 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 89021 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+14	9	0.0	2	4 3 2
+15	6	0.0	3	1 4 1
+16	16	0.0	3	9 4 3
+17	6	0.0	3	3 3
+18	24	0.0	3	0 8 2 9 5
+19	61	0.0	3	0 1 25 35
+20	818	0.0	4	4 64 682 64 4
+21	12751	0.0	4	185 11606 880 74 6
+22	75183	0.0	4	72121 2593 378 63 28
+23	140	0.0	4	22 109 8 1
+24	4	0.0	4	2 1 1
+29	1	0.0	4	0 1
+32	2	0.0	4	0 0 0 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505064_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505064_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 3.636 s (14.493 µs/read; 4.14 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 250,878
+Reads with adapters:                   250,609 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       250,609 (99.9%)
+
+Total basepairs processed:    62,719,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     57,157,000 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 250609 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	2	3920.0	0	2
+9	1	1.0	1	1
+10	2	0.2	2	2
+12	1	0.0	2	0 0 1
+13	5	0.0	2	0 3 2
+14	22	0.0	2	0 11 11
+15	6	0.0	3	0 1 1 4
+16	15	0.0	3	0 10 2 3
+17	21	0.0	3	6 6 6 3
+18	39	0.0	3	19 8 2 2 8
+19	73	0.0	3	8 6 16 43
+20	323	0.0	4	18 25 238 30 12
+21	17009	0.0	4	112 13453 3356 83 5
+22	232666	0.0	4	220815 10341 1303 148 59
+23	423	0.0	4	74 325 21 3
+24	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505065_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505065_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 4.114 s (19.312 µs/read; 3.11 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 213,052
+Reads with adapters:                   212,771 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       212,771 (99.9%)
+
+Total basepairs processed:    53,263,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     48,515,181 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 212771 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	3328.9	0	1
+6	1	52.0	1	0 1
+9	2	0.8	1	1 1
+12	1	0.0	2	0 0 1
+13	4	0.0	2	0 3 1
+14	8	0.0	2	0 2 6
+15	12	0.0	3	3 5 4
+16	10	0.0	3	0 8 2
+17	30	0.0	3	6 7 8 9
+18	28	0.0	3	10 6 8 3 1
+19	62	0.0	3	5 3 11 28 15
+20	211	0.0	4	5 14 85 82 25
+21	4410	0.0	4	39 2436 1685 235 15
+22	205799	0.0	4	77901 102198 24910 626 164
+23	2182	0.0	4	34 155 1895 90 8
+24	10	0.0	4	0 0 2 8
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505066_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505066_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.327 s (17.060 µs/read; 3.52 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 136,392
+Reads with adapters:                   136,186 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       136,186 (99.8%)
+
+Total basepairs processed:    34,098,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     31,063,547 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 136186 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+9	2	0.5	1	2
+11	1	0.0	2	0 1
+13	5	0.0	2	0 3 2
+15	5	0.0	3	0 4 1
+16	17	0.0	3	4 4 4 5
+17	10	0.0	3	1 2 4 3
+18	17	0.0	3	0 7 2 4 4
+19	58	0.0	3	2 3 17 35 1
+20	558	0.0	4	4 44 367 43 100
+21	12203	0.0	4	234 8781 630 2478 80
+22	122633	0.0	4	89267 3988 28458 829 91
+23	671	0.0	4	31 116 458 59 7
+24	2	0.0	4	0 0 1 1
+25	1	0.0	4	1
+26	2	0.0	4	0 0 2
+27	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505067_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505067_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 3.116 s (21.468 µs/read; 2.79 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 145,127
+Reads with adapters:                   144,870 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       144,870 (99.8%)
+
+Total basepairs processed:    36,281,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     33,000,435 bp (91.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 144870 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+7	1	8.9	1	0 1
+12	1	0.0	2	0 1
+13	2	0.0	2	0 0 2
+14	1	0.0	2	0 0 1
+15	4	0.0	3	0 1 1 2
+16	7	0.0	3	0 2 3 2
+17	12	0.0	3	0 5 3 4
+18	12	0.0	3	0 0 6 3 3
+19	30	0.0	3	0 1 11 18
+20	274	0.0	4	0 14 160 57 43
+21	24688	0.0	4	0 19182 4565 887 54
+22	64481	0.0	4	2546 2590 56953 2298 94
+23	55265	0.0	4	1 83 53594 1522 65
+24	91	0.0	4	0 0 13 77 1
+55	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505068_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505068_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.364 s (18.248 µs/read; 3.29 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  74,745
+Reads with adapters:                    74,667 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        74,667 (99.9%)
+
+Total basepairs processed:    18,686,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     17,040,661 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 74667 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	73.0	1	0 1
+6	1	18.2	1	0 1
+8	2	1.1	1	0 2
+11	2	0.0	2	2
+14	4	0.0	2	1 3
+15	3	0.0	3	0 3
+16	14	0.0	3	3 10 1
+17	9	0.0	3	2 3 1 3
+18	26	0.0	3	7 6 4 8 1
+19	35	0.0	3	1 3 10 19 2
+20	217	0.0	4	2 11 162 35 7
+21	15894	0.0	4	32 12966 2811 78 7
+22	58248	0.0	4	55268 2168 754 45 13
+23	207	0.0	4	12 82 111 1 1
+24	2	0.0	4	0 0 1 1
+25	2	0.0	4	0 0 0 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505069_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505069_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 7.475 s (16.862 µs/read; 3.56 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 443,284
+Reads with adapters:                   442,668 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       442,668 (99.9%)
+
+Total basepairs processed:   110,821,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):    101,001,877 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 442668 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	3	6926.3	0	3
+4	1	1731.6	0	0 1
+5	2	432.9	1	0 2
+6	1	108.2	1	0 1
+10	5	0.4	2	5
+12	5	0.0	2	3 1 1
+13	9	0.0	2	3 6
+14	18	0.0	2	7 10 1
+15	22	0.0	3	8 11 3
+16	41	0.0	3	20 11 6 4
+17	64	0.0	3	10 29 21 4
+18	131	0.0	3	8 65 10 40 8
+19	300	0.0	3	5 9 98 171 17
+20	4100	0.0	4	30 298 3420 284 68
+21	63644	0.0	4	1025 57094 4780 675 70
+22	373552	0.0	4	352584 15677 4750 346 195
+23	724	0.0	4	84 548 43 37 12
+24	27	0.0	4	4 1 12 4 6
+25	8	0.0	4	1 1 0 3 3
+26	5	0.0	4	2 0 0 0 3
+29	1	0.0	4	1
+30	2	0.0	4	0 0 0 2
+31	2	0.0	4	0 0 2
+34	1	0.0	4	1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505070_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505070_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.493 s (33.206 µs/read; 1.81 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  14,845
+Reads with adapters:                    14,812 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        14,812 (99.8%)
+
+Total basepairs processed:     3,711,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      3,390,937 bp (91.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 14812 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	14.5	1	0 1
+17	5	0.0	3	0 1 2 2
+18	5	0.0	3	0 0 1 2 2
+19	12	0.0	3	0 0 2 5 5
+20	161	0.0	4	0 6 100 52 3
+21	13385	0.0	4	1 9430 3872 75 7
+22	1239	0.0	4	1083 91 48 14 3
+23	4	0.0	4	0 3 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505071_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505071_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.633 s (19.439 µs/read; 3.09 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  32,574
+Reads with adapters:                    32,520 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        32,520 (99.8%)
+
+Total basepairs processed:     8,143,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      7,427,273 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 32520 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	509.0	0	1
+5	1	31.8	1	0 1
+10	1	0.0	2	0 0 1
+13	7	0.0	2	5 2
+15	1	0.0	3	0 1
+16	4	0.0	3	0 1 2 1
+17	11	0.0	3	5 4 2
+18	7	0.0	3	0 0 0 4 3
+19	16	0.0	3	2 1 1 10 2
+20	153	0.0	4	4 7 107 35
+21	12229	0.0	4	10 9192 2965 56 6
+22	20021	0.0	4	18566 1274 153 21 7
+23	67	0.0	4	12 34 21
+50	1	0.0	4	0 0 0 0 1
+Running external command line application. This may print messages to stdout and/or stderr.
+The commands to be run are below. These commands cannot be manually re-run as they will depend on temporary files that no longer exist.
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505051_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505051_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505052_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505052_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505053_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505053_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505054_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505054_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505055_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505055_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505056_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505056_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505057_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505057_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505058_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505058_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505059_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505059_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505060_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505060_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505061_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505061_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505062_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505062_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505063_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505063_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505064_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505064_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505065_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505065_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505066_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505066_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505067_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505067_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505068_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505068_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505069_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505069_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505070_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505070_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505071_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505071_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505072_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505072_00_L001_R1_001.fastq.gz
+
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505072_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505072_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.964 s (21.274 µs/read; 2.82 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  45,313
+Reads with adapters:                    45,144 (99.6%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        45,144 (99.6%)
+
+Total basepairs processed:    11,328,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     10,308,153 bp (91.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 45144 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+6	1	11.1	1	0 1
+7	1	2.8	1	0 1
+11	1	0.0	2	0 0 1
+12	2	0.0	2	0 0 2
+14	4	0.0	2	0 2 2
+15	1	0.0	3	0 1
+16	5	0.0	3	2 2 1
+17	11	0.0	3	2 3 5 1
+18	11	0.0	3	1 2 2 4 2
+19	51	0.0	3	0 1 10 29 11
+20	1007	0.0	4	3 45 709 225 25
+21	12981	0.0	4	69 9308 3225 353 26
+22	31014	0.0	4	22278 7944 670 90 32
+23	51	0.0	4	8 28 12 2 1
+24	3	0.0	4	0 0 2 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505073_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505073_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.763 s (29.100 µs/read; 2.06 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  26,229
+Reads with adapters:                    26,170 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        26,170 (99.8%)
+
+Total basepairs processed:     6,557,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      5,987,622 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 26170 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	409.8	0	1
+4	1	102.5	0	0 1
+12	1	0.0	2	0 0 1
+15	1	0.0	3	0 1
+16	4	0.0	3	0 1 2 1
+17	6	0.0	3	0 2 4
+18	7	0.0	3	2 0 0 2 3
+19	21	0.0	3	0 2 2 13 4
+20	242	0.0	4	0 5 150 82 5
+21	20357	0.0	4	5 14970 5237 139 6
+22	5393	0.0	4	2914 1546 864 50 19
+23	134	0.0	4	0 10 119 4 1
+24	1	0.0	4	0 0 0 1
+64	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505074_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505074_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.674 s (23.725 µs/read; 2.53 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  28,394
+Reads with adapters:                    28,336 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        28,336 (99.8%)
+
+Total basepairs processed:     7,098,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      6,477,028 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 28336 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	1	0.0	2	0 0 1
+16	1	0.0	3	0 1
+17	6	0.0	3	0 4 2
+18	11	0.0	3	0 1 2 7 1
+19	10	0.0	3	0 1 1 8
+20	158	0.0	4	0 17 115 22 4
+21	16124	0.0	4	2 13228 2816 65 13
+22	11919	0.0	4	9524 1428 895 37 35
+23	104	0.0	4	0 14 82 7 1
+24	1	0.0	4	0 0 0 1
+55	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505075_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505075_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.795 s (23.391 µs/read; 2.57 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  33,983
+Reads with adapters:                    33,837 (99.6%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        33,837 (99.6%)
+
+Total basepairs processed:     8,495,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      7,735,081 bp (91.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 33837 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	2	531.0	0	2
+4	2	132.7	0	0 2
+5	1	33.2	1	0 1
+12	1	0.0	2	1
+16	4	0.0	3	0 1 1 2
+17	4	0.0	3	0 1 2 1
+18	12	0.0	3	3 1 2 3 3
+19	17	0.0	3	0 0 1 15 1
+20	225	0.0	4	0 10 161 52 2
+21	19705	0.0	4	9 15682 3886 113 15
+22	13735	0.0	4	10776 2107 798 41 13
+23	128	0.0	4	2 32 90 4
+48	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505076_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505076_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.647 s (23.237 µs/read; 2.58 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  70,888
+Reads with adapters:                    70,795 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        70,795 (99.9%)
+
+Total basepairs processed:    17,722,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     16,149,663 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 70795 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+11	1	0.0	2	0 0 1
+13	2	0.0	2	1 1
+16	2	0.0	3	0 2
+17	6	0.0	3	0 6
+18	4	0.0	3	0 0 1 3
+19	17	0.0	3	1 0 1 11 4
+20	300	0.0	4	0 15 212 62 11
+21	7772	0.0	4	99 5597 1737 297 42
+22	62586	0.0	4	43820 15332 2876 440 118
+23	103	0.0	4	8 59 20 8 8
+24	2	0.0	4	0 0 1 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505077_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505077_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.424 s (21.721 µs/read; 2.76 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  65,540
+Reads with adapters:                    65,429 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        65,429 (99.8%)
+
+Total basepairs processed:    16,385,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     14,934,494 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 65429 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+9	2	0.3	1	0 2
+12	1	0.0	2	0 1
+13	1	0.0	2	0 0 1
+14	1	0.0	2	1
+15	3	0.0	3	2 1
+16	3	0.0	3	0 3
+17	7	0.0	3	0 7
+18	9	0.0	3	1 2 1 4 1
+19	15	0.0	3	0 1 3 9 2
+20	175	0.0	4	1 6 130 31 7
+21	16268	0.0	4	22 13669 2484 86 7
+22	48802	0.0	4	39821 7085 1787 94 15
+23	140	0.0	4	16 87 34 2 1
+24	2	0.0	4	0 0 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505078_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505078_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.663 s (27.910 µs/read; 2.15 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  23,765
+Reads with adapters:                    23,709 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        23,709 (99.8%)
+
+Total basepairs processed:     5,941,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      5,422,967 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 23709 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+4	1	92.8	0	0 1
+16	1	0.0	3	1
+17	2	0.0	3	0 0 2
+18	6	0.0	3	0 0 3 3
+19	15	0.0	3	0 0 2 12 1
+20	213	0.0	4	0 10 135 66 2
+21	18069	0.0	4	0 13844 4112 105 8
+22	4147	0.0	4	2037 904 1146 56 4
+23	1250	0.0	4	2 5 1204 37 2
+24	4	0.0	4	0 0 2 2
+47	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505079_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505079_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.487 s (16.509 µs/read; 3.63 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 150,658
+Reads with adapters:                   150,348 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       150,348 (99.8%)
+
+Total basepairs processed:    37,664,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     34,300,930 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 150348 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+4	1	588.5	0	0 1
+5	1	147.1	1	0 1
+6	1	36.8	1	0 1
+10	1	0.1	2	1
+13	5	0.0	2	1 2 2
+14	8	0.0	2	5 3
+15	4	0.0	3	1 3
+16	6	0.0	3	1 2 0 3
+17	19	0.0	3	9 5 1 4
+18	25	0.0	3	6 9 1 6 3
+19	83	0.0	3	13 12 11 45 2
+20	293	0.0	4	2 25 233 28 5
+21	21978	0.0	4	66 19257 2539 100 16
+22	126268	0.0	4	114792 8013 3287 139 37
+23	1653	0.0	4	34 186 1393 38 2
+24	1	0.0	4	0 0 1
+25	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505080_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505080_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.576 s (26.430 µs/read; 2.27 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  21,792
+Reads with adapters:                    21,759 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        21,759 (99.8%)
+
+Total basepairs processed:     5,448,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      4,980,566 bp (91.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 21759 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+16	6	0.0	3	0 5 0 1
+17	2	0.0	3	0 0 2
+18	4	0.0	3	0 0 2 0 2
+19	16	0.0	3	0 1 5 9 1
+20	169	0.0	4	0 14 126 27 2
+21	19143	0.0	4	2 16874 2184 77 6
+22	2364	0.0	4	1669 444 236 12 3
+23	53	0.0	4	2 4 47
+24	1	0.0	4	0 1
+44	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505081_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505081_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.510 s (24.923 µs/read; 2.41 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  20,481
+Reads with adapters:                    20,435 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        20,435 (99.8%)
+
+Total basepairs processed:     5,120,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      4,675,560 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 20435 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+4	1	80.0	0	1
+11	1	0.0	2	0 0 1
+13	1	0.0	2	0 1
+14	1	0.0	2	0 1
+15	3	0.0	3	0 3
+16	2	0.0	3	0 0 1 1
+17	6	0.0	3	0 5 1
+18	7	0.0	3	0 1 2 4
+19	16	0.0	3	0 1 2 10 3
+20	197	0.0	4	0 10 126 59 2
+21	15823	0.0	4	1 11488 4224 98 12
+22	4355	0.0	4	3346 692 269 35 13
+23	22	0.0	4	1 2 19
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505082_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505082_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.424 s (25.433 µs/read; 2.36 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  16,678
+Reads with adapters:                    16,653 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        16,653 (99.9%)
+
+Total basepairs processed:     4,169,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      3,811,852 bp (91.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 16653 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+15	2	0.0	3	0 2
+16	1	0.0	3	0 1
+17	3	0.0	3	0 3
+18	5	0.0	3	0 0 2 2 1
+19	13	0.0	3	0 0 2 11
+20	172	0.0	4	0 7 120 42 3
+21	14544	0.0	4	1 11235 3243 58 7
+22	1909	0.0	4	1610 229 56 10 4
+23	3	0.0	4	1 0 2
+33	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505083_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505083_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.603 s (27.584 µs/read; 2.18 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  21,878
+Reads with adapters:                    21,842 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        21,842 (99.8%)
+
+Total basepairs processed:     5,469,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      4,996,257 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 21842 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+16	3	0.0	3	0 2 1
+17	5	0.0	3	0 4 1
+18	11	0.0	3	3 2 2 4
+19	17	0.0	3	0 0 1 14 2
+20	189	0.0	4	0 7 130 49 3
+21	16245	0.0	4	0 12523 3663 54 5
+22	4944	0.0	4	3702 745 451 38 8
+23	425	0.0	4	0 7 406 12
+24	1	0.0	4	0 0 0 1
+32	1	0.0	4	0 0 1
+65	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505084_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505084_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.830 s (22.736 µs/read; 2.64 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  36,500
+Reads with adapters:                    36,457 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        36,457 (99.9%)
+
+Total basepairs processed:     9,125,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      8,327,306 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 36457 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+15	1	0.0	3	0 1
+17	2	0.0	3	0 0 2
+18	6	0.0	3	3 1 0 2
+19	7	0.0	3	0 2 2 3
+20	139	0.0	4	0 7 115 16 1
+21	15021	0.0	4	17 13087 1822 83 12
+22	21031	0.0	4	14651 2475 3781 106 18
+23	249	0.0	4	1 32 203 12 1
+24	1	0.0	4	0 0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505085_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505085_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.731 s (22.824 µs/read; 2.63 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  32,014
+Reads with adapters:                    31,981 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        31,981 (99.9%)
+
+Total basepairs processed:     8,003,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      7,310,801 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 31981 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	500.2	0	1
+5	1	31.3	1	0 1
+13	1	0.0	2	0 1
+14	2	0.0	2	1 0 1
+15	2	0.0	3	0 2
+16	6	0.0	3	0 1 2 3
+17	5	0.0	3	2 1 0 2
+18	8	0.0	3	1 0 2 0 5
+19	19	0.0	3	0 0 5 13 1
+20	251	0.0	4	1 8 163 79
+21	18432	0.0	4	5 14409 3944 67 7
+22	13230	0.0	4	12298 757 151 16 8
+23	22	0.0	4	7 14 0 0 1
+26	1	0.0	4	0 0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505086_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505086_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.390 s (23.831 µs/read; 2.52 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  16,350
+Reads with adapters:                    16,310 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        16,310 (99.8%)
+
+Total basepairs processed:     4,087,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      3,730,743 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 16310 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	3	0.0	2	0 1 2
+16	3	0.0	3	0 1 2
+17	1	0.0	3	0 1
+18	5	0.0	3	0 0 1 1 3
+19	17	0.0	3	0 3 3 7 4
+20	151	0.0	4	0 8 86 56 1
+21	11645	0.0	4	0 8741 2843 56 5
+22	4480	0.0	4	4021 368 67 23 1
+23	5	0.0	4	0 1 3 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505087_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505087_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.327 s (18.785 µs/read; 3.19 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  17,390
+Reads with adapters:                    17,309 (99.5%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        17,309 (99.5%)
+
+Total basepairs processed:     4,347,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      3,951,308 bp (90.9%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 17309 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+6	1	4.2	1	0 1
+7	1	1.1	1	0 1
+11	1	0.0	2	0 0 1
+13	1	0.0	2	1
+15	2	0.0	3	0 2
+16	3	0.0	3	1 2
+17	2	0.0	3	0 1 1
+18	6	0.0	3	0 2 1 2 1
+19	20	0.0	3	0 0 2 16 2
+20	343	0.0	4	0 10 253 74 6
+21	4023	0.0	4	28 2970 904 109 12
+22	12877	0.0	4	9975 2622 243 30 7
+23	28	0.0	4	3 16 8 1
+24	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505088_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505088_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.495 s (24.017 µs/read; 2.50 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  20,627
+Reads with adapters:                    20,602 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        20,602 (99.9%)
+
+Total basepairs processed:     5,156,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      4,712,053 bp (91.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 20602 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	20.1	1	0 1
+10	1	0.0	2	1
+14	1	0.0	2	0 0 1
+15	2	0.0	3	0 0 2
+16	3	0.0	3	0 3
+17	4	0.0	3	1 3
+18	3	0.0	3	0 0 0 1 2
+19	11	0.0	3	1 0 0 9 1
+20	194	0.0	4	0 12 132 48 2
+21	14321	0.0	4	2 10849 3386 75 9
+22	6049	0.0	4	5529 428 78 11 3
+23	11	0.0	4	6 5
+57	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505089_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505089_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.389 s (22.860 µs/read; 2.62 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  17,018
+Reads with adapters:                    16,990 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        16,990 (99.8%)
+
+Total basepairs processed:     4,254,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      3,886,662 bp (91.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 16990 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+15	1	0.0	3	0 0 1
+16	3	0.0	3	0 2 0 1
+17	2	0.0	3	0 2
+18	2	0.0	3	0 0 0 0 2
+19	17	0.0	3	0 2 4 9 2
+20	136	0.0	4	0 6 97 33
+21	12581	0.0	4	2 9943 2585 49 2
+22	4243	0.0	4	3829 355 47 11 1
+23	5	0.0	4	0 4 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505090_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505090_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.676 s (22.520 µs/read; 2.66 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  30,037
+Reads with adapters:                    29,975 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        29,975 (99.8%)
+
+Total basepairs processed:     7,509,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      6,850,279 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 29975 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	469.3	0	1
+6	1	7.3	1	0 1
+15	1	0.0	3	0 1
+16	4	0.0	3	0 1 3
+17	7	0.0	3	0 3 2 2
+18	8	0.0	3	3 1 2 1 1
+19	23	0.0	3	1 2 5 13 2
+20	192	0.0	4	0 11 140 39 2
+21	15417	0.0	4	9 12350 2977 77 4
+22	14297	0.0	4	13342 774 158 17 6
+23	24	0.0	4	4 16 3 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505091_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505091_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.030 s (19.979 µs/read; 3.00 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 101,611
+Reads with adapters:                   101,480 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       101,480 (99.9%)
+
+Total basepairs processed:    25,402,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     23,145,054 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 101480 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	1	0.0	2	0 1
+14	3	0.0	2	3
+16	6	0.0	3	0 4 1 1
+17	11	0.0	3	3 3 1 4
+18	16	0.0	3	7 4 0 4 1
+19	16	0.0	3	1 1 1 12 1
+20	120	0.0	4	4 6 82 8 20
+21	7404	0.0	4	51 6179 969 190 15
+22	93658	0.0	4	66455 4982 21641 479 101
+23	236	0.0	4	19 95 98 21 3
+24	8	0.0	4	0 0 0 1 7
+36	1	0.0	4	1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505092_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505092_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.452 s (27.099 µs/read; 2.21 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  16,661
+Reads with adapters:                    16,627 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        16,627 (99.8%)
+
+Total basepairs processed:     4,165,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      3,803,905 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 16627 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+15	1	0.0	3	0 0 1
+16	1	0.0	3	0 1
+17	9	0.0	3	1 0 6 2
+18	5	0.0	3	0 2 1 1 1
+19	13	0.0	3	0 1 1 7 4
+20	157	0.0	4	0 9 100 44 4
+21	12575	0.0	4	4 9293 3197 72 9
+22	3861	0.0	4	3305 433 96 21 6
+23	4	0.0	4	1 3
+75	1	0.0	4	0 0 0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505093_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505093_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.401 s (27.936 µs/read; 2.15 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  14,353
+Reads with adapters:                    14,329 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        14,329 (99.8%)
+
+Total basepairs processed:     3,588,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      3,280,797 bp (91.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 14329 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	224.3	0	1
+13	1	0.0	2	0 1
+15	1	0.0	3	0 0 1
+16	1	0.0	3	0 0 0 1
+17	2	0.0	3	0 2
+18	6	0.0	3	0 0 4 1 1
+19	21	0.0	3	3 0 3 12 3
+20	182	0.0	4	0 7 100 74 1
+21	13327	0.0	4	0 9799 3454 63 11
+22	781	0.0	4	538 195 34 10 4
+23	5	0.0	4	0 1 1 0 3
+61	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505094_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505094_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.850 s (19.292 µs/read; 3.11 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  44,076
+Reads with adapters:                    43,997 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        43,997 (99.8%)
+
+Total basepairs processed:    11,019,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     10,046,658 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 43997 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	43.0	1	1
+13	1	0.0	2	1
+14	3	0.0	2	1 0 2
+15	5	0.0	3	0 4 0 1
+16	7	0.0	3	0 7
+17	5	0.0	3	0 4 1
+18	7	0.0	3	2 3 0 1 1
+19	14	0.0	3	3 0 1 8 2
+20	204	0.0	4	0 3 144 56 1
+21	14751	0.0	4	14 10907 3755 71 4
+22	28960	0.0	4	25609 3067 233 38 13
+23	39	0.0	4	11 26 2
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505073_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505073_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505074_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505074_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505075_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505075_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505076_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505076_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505077_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505077_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505078_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505078_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505079_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505079_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505080_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505080_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505081_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505081_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505082_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505082_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505083_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505083_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505084_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505084_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505085_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505085_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505086_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505086_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505087_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505087_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505088_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505088_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505089_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505089_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505090_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505090_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505091_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505091_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505092_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505092_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505093_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505093_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505094_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505094_00_L001_R1_001.fastq.gz
+
+
+Command: This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505095_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505095_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.878 s (17.326 µs/read; 3.46 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 108,381
+Reads with adapters:                   108,252 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       108,252 (99.9%)
+
+Total basepairs processed:    27,095,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     24,693,535 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 108252 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+11	2	0.0	2	0 2
+12	4	0.0	2	0 0 4
+13	2	0.0	2	1 1
+14	2	0.0	2	1 1
+15	1	0.0	3	0 0 1
+16	4	0.0	3	3 1
+17	11	0.0	3	5 4 1 1
+18	13	0.0	3	2 2 0 4 5
+19	36	0.0	3	4 6 2 21 3
+20	182	0.0	4	10 15 141 10 6
+21	11567	0.0	4	49 10223 1207 75 13
+22	96235	0.0	4	89201 5238 1548 105 143
+23	192	0.0	4	22 115 50 3 2
+24	1	0.0	4	0 0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505096_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505096_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 3.288 s (16.861 µs/read; 3.56 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 194,997
+Reads with adapters:                   194,752 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       194,752 (99.9%)
+
+Total basepairs processed:    48,749,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     44,418,515 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 194752 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	190.4	1	0 1
+7	1	11.9	1	0 1
+10	2	0.2	2	2
+11	2	0.0	2	2
+12	1	0.0	2	0 0 1
+13	3	0.0	2	0 0 3
+14	5	0.0	2	0 5
+15	5	0.0	3	0 4 0 1
+16	6	0.0	3	1 1 3 1
+17	11	0.0	3	4 5 0 2
+18	44	0.0	3	17 6 5 9 7
+19	39	0.0	3	5 4 11 19
+20	194	0.0	4	6 16 148 18 6
+21	14491	0.0	4	88 12947 1312 133 11
+22	179553	0.0	4	159933 10198 9106 266 50
+23	394	0.0	4	40 249 89 15 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505097_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505097_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 8.284 s (16.836 µs/read; 3.56 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 492,054
+Reads with adapters:                   491,117 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       491,117 (99.8%)
+
+Total basepairs processed:   123,013,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):    112,029,372 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 491117 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	2	7688.3	0	2
+9	4	1.9	1	3 1
+12	2	0.0	2	1 1
+13	4	0.0	2	0 4
+14	13	0.0	2	3 8 2
+15	22	0.0	3	5 11 5 1
+16	36	0.0	3	7 20 6 3
+17	58	0.0	3	7 18 19 14
+18	73	0.0	3	5 22 12 25 9
+19	213	0.0	3	0 9 65 128 11
+20	2486	0.0	4	22 174 1860 341 89
+21	49033	0.0	4	885 39283 7308 1459 98
+22	438367	0.0	4	368455 59022 9580 780 530
+23	739	0.0	4	64 532 104 27 12
+24	39	0.0	4	1 0 11 27
+25	10	0.0	4	1 3 1 5
+26	3	0.0	4	0 0 0 0 3
+27	1	0.0	4	1
+31	1	0.0	4	0 0 0 1
+42	2	0.0	4	2
+44	1	0.0	4	0 0 1
+45	1	0.0	4	0 0 1
+49	4	0.0	4	1 0 3
+50	3	0.0	4	1 0 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505098_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505098_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.098 s (22.173 µs/read; 2.71 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  94,631
+Reads with adapters:                    94,355 (99.7%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        94,355 (99.7%)
+
+Total basepairs processed:    23,657,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     21,529,291 bp (91.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 94355 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+6	1	23.1	1	0 1
+12	1	0.0	2	0 0 1
+13	3	0.0	2	1 0 2
+14	1	0.0	2	1
+15	4	0.0	3	1 3
+16	5	0.0	3	1 3 0 1
+17	9	0.0	3	0 2 3 4
+18	14	0.0	3	0 8 2 3 1
+19	57	0.0	3	0 1 7 39 10
+20	822	0.0	4	1 30 591 158 42
+21	14485	0.0	4	155 10244 3226 759 101
+22	78807	0.0	4	55303 18677 4112 623 92
+23	135	0.0	4	7 72 27 8 21
+24	10	0.0	4	0 0 1 5 4
+36	1	0.0	4	0 0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505099_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505099_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.085 s (25.868 µs/read; 2.32 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  41,945
+Reads with adapters:                    41,888 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        41,888 (99.9%)
+
+Total basepairs processed:    10,486,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      9,589,822 bp (91.5%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 41888 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	1	0.0	2	0 1
+14	4	0.0	2	0 2 2
+15	2	0.0	3	0 1 1
+16	4	0.0	3	0 0 2 2
+17	6	0.0	3	0 0 3 3
+18	14	0.0	3	0 0 1 9 4
+19	162	0.0	3	0 2 24 121 15
+20	3271	0.0	4	0 106 2561 582 22
+21	32235	0.0	4	14 25824 6236 148 13
+22	6164	0.0	4	5310 664 146 37 7
+23	22	0.0	4	1 6 9 6
+24	1	0.0	4	0 0 0 0 1
+28	1	0.0	4	0 1
+62	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505100_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505100_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.419 s (23.555 µs/read; 2.55 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  17,783
+Reads with adapters:                    17,755 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        17,755 (99.8%)
+
+Total basepairs processed:     4,445,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      4,061,134 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 17755 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	1	0.0	2	0 0 1
+14	1	0.0	2	1
+16	1	0.0	3	0 1
+17	4	0.0	3	0 2 1 1
+18	6	0.0	3	0 1 3 1 1
+19	10	0.0	3	1 1 1 6 1
+20	114	0.0	4	0 7 78 29
+21	12715	0.0	4	3 9227 3404 73 8
+22	4897	0.0	4	4440 381 56 16 4
+23	4	0.0	4	1 1 2
+25	1	0.0	4	0 1
+61	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505101_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505101_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.898 s (17.038 µs/read; 3.52 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  52,681
+Reads with adapters:                    52,608 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        52,608 (99.9%)
+
+Total basepairs processed:    13,170,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     12,006,975 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 52608 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+14	2	0.0	2	0 2
+15	1	0.0	3	0 1
+16	5	0.0	3	4 1
+17	4	0.0	3	0 2 2
+18	16	0.0	3	1 6 5 2 2
+19	35	0.0	3	0 1 13 17 4
+20	780	0.0	4	1 42 640 91 6
+21	10612	0.0	4	76 9169 1276 84 7
+22	41091	0.0	4	38628 1984 422 35 22
+23	61	0.0	4	5 51 4 1
+24	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505102_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505102_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.461 s (23.875 µs/read; 2.51 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  19,321
+Reads with adapters:                    19,280 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        19,280 (99.8%)
+
+Total basepairs processed:     4,830,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      4,411,184 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 19280 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	1	0.0	2	0 1
+16	3	0.0	3	0 2 1
+17	3	0.0	3	0 0 3
+18	2	0.0	3	1 0 0 1
+19	19	0.0	3	0 2 2 11 4
+20	251	0.0	4	0 12 148 88 3
+21	14738	0.0	4	2 10203 4446 84 3
+22	4260	0.0	4	3552 585 99 20 4
+23	3	0.0	4	0 0 2 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505103_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505103_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.374 s (18.449 µs/read; 3.25 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 128,689
+Reads with adapters:                   128,544 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       128,544 (99.9%)
+
+Total basepairs processed:    32,172,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     29,354,447 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 128544 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	2	125.7	1	0 2
+13	6	0.0	2	2 4
+14	7	0.0	2	3 3 1
+15	13	0.0	3	3 6 2 2
+16	24	0.0	3	7 9 7 1
+17	26	0.0	3	2 7 15 2
+18	28	0.0	3	3 5 4 6 10
+19	154	0.0	3	1 4 42 97 10
+20	3213	0.0	4	6 136 2643 420 8
+21	39087	0.0	4	220 32969 5651 223 24
+22	85825	0.0	4	80612 4526 576 74 37
+23	147	0.0	4	24 78 40 3 2
+24	6	0.0	4	0 0 6
+25	2	0.0	4	0 1 0 1
+26	4	0.0	4	0 2 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505104_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505104_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.753 s (19.805 µs/read; 3.03 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 138,996
+Reads with adapters:                   138,845 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       138,845 (99.9%)
+
+Total basepairs processed:    34,749,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     31,701,799 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 138845 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+12	6	0.0	2	3 2 1
+13	3	0.0	2	0 3
+14	7	0.0	2	4 2 1
+15	15	0.0	3	7 8
+16	25	0.0	3	10 10 3 2
+17	33	0.0	3	7 12 6 8
+18	33	0.0	3	1 12 3 12 5
+19	191	0.0	3	0 8 38 134 11
+20	3233	0.0	4	5 142 2709 364 13
+21	37742	0.0	4	335 32278 4938 161 30
+22	97378	0.0	4	91723 5059 462 84 50
+23	165	0.0	4	34 116 4 11
+24	7	0.0	4	0 1 6
+25	2	0.0	4	0 0 0 1 1
+33	3	0.0	4	3
+34	1	0.0	4	0 0 0 0 1
+129	1	0.0	4	0 0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505105_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505105_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.529 s (26.709 µs/read; 2.25 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  19,814
+Reads with adapters:                    19,763 (99.7%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        19,763 (99.7%)
+
+Total basepairs processed:     4,953,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      4,522,708 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 19763 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	1	0.0	2	0 0 1
+15	1	0.0	3	0 0 1
+16	3	0.0	3	0 2 1
+17	2	0.0	3	0 0 0 2
+18	7	0.0	3	0 3 0 0 4
+19	22	0.0	3	0 1 3 14 4
+20	176	0.0	4	0 8 116 46 6
+21	16404	0.0	4	3 12111 4190 85 15
+22	3110	0.0	4	2042 751 293 21 3
+23	34	0.0	4	0 4 28 0 2
+60	1	0.0	4	0 0 0 1
+61	2	0.0	4	0 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505106_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505106_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.266 s (23.098 µs/read; 2.60 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  11,517
+Reads with adapters:                    11,462 (99.5%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        11,462 (99.5%)
+
+Total basepairs processed:     2,879,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      2,621,332 bp (91.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 11462 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+15	1	0.0	3	0 0 1
+16	2	0.0	3	0 0 2
+18	2	0.0	3	0 0 0 1 1
+19	37	0.0	3	0 2 7 22 6
+20	612	0.0	4	2 16 496 95 3
+21	6713	0.0	4	9 5410 1249 40 5
+22	4087	0.0	4	3533 417 124 7 6
+23	5	0.0	4	1 1 2 1
+24	1	0.0	4	0 0 1
+56	1	0.0	4	0 0 1
+60	1	0.0	4	0 0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505107_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505107_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.543 s (20.421 µs/read; 2.94 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 124,515
+Reads with adapters:                   124,071 (99.6%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       124,071 (99.6%)
+
+Total basepairs processed:    31,128,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     28,316,983 bp (91.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 124071 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	1945.5	0	1
+5	1	121.6	1	0 1
+6	1	30.4	1	0 1
+11	1	0.0	2	0 0 1
+12	1	0.0	2	0 0 1
+14	4	0.0	2	1 3
+15	2	0.0	3	0 2
+16	12	0.0	3	3 1 5 3
+17	25	0.0	3	5 12 6 2
+18	22	0.0	3	1 13 3 4 1
+19	93	0.0	3	1 2 21 60 9
+20	1593	0.0	4	3 71 1099 369 51
+21	25136	0.0	4	237 17842 6200 778 79
+22	97010	0.0	4	69652 24279 2642 349 88
+23	155	0.0	4	19 105 22 6 3
+24	7	0.0	4	0 0 4 2 1
+25	2	0.0	4	0 0 0 1 1
+26	1	0.0	4	0 1
+27	1	0.0	4	0 0 0 0 1
+28	1	0.0	4	0 0 0 0 1
+31	1	0.0	4	0 0 0 0 1
+33	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505108_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505108_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.711 s (16.777 µs/read; 3.58 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 101,962
+Reads with adapters:                   101,869 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       101,869 (99.9%)
+
+Total basepairs processed:    25,490,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     23,252,533 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 101869 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+12	1	0.0	2	1
+14	1	0.0	2	1
+15	4	0.0	3	1 3
+16	14	0.0	3	3 4 6 1
+17	14	0.0	3	0 3 9 2
+18	24	0.0	3	2 9 2 5 6
+19	110	0.0	3	4 1 32 65 8
+20	1770	0.0	4	3 76 1507 176 8
+21	22396	0.0	4	195 19493 2615 75 18
+22	77398	0.0	4	73369 3730 229 55 15
+23	125	0.0	4	9 105 8 1 2
+24	9	0.0	4	0 0 7 2
+25	1	0.0	4	0 0 0 1
+29	1	0.0	4	0 0 0 1
+30	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505109_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505109_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.373 s (26.036 µs/read; 2.30 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  14,336
+Reads with adapters:                    14,297 (99.7%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        14,297 (99.7%)
+
+Total basepairs processed:     3,584,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      3,273,261 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 14297 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	224.0	0	1
+5	3	14.0	1	0 3
+11	1	0.0	2	0 0 1
+15	1	0.0	3	0 0 1
+16	1	0.0	3	0 0 1
+17	3	0.0	3	0 2 1
+18	6	0.0	3	0 1 1 1 3
+19	12	0.0	3	0 0 0 8 4
+20	164	0.0	4	0 6 98 56 4
+21	13069	0.0	4	0 9050 3933 78 8
+22	1034	0.0	4	601 242 158 31 2
+23	1	0.0	4	0 0 1
+42	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505110_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505110_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.730 s (24.452 µs/read; 2.45 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  29,864
+Reads with adapters:                    29,757 (99.6%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        29,757 (99.6%)
+
+Total basepairs processed:     7,466,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      6,803,546 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 29757 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	2	466.6	0	2
+4	1	116.7	0	0 1
+13	3	0.0	2	0 1 2
+14	1	0.0	2	0 1
+15	2	0.0	3	0 0 2
+16	4	0.0	3	0 3 1
+17	5	0.0	3	0 1 3 1
+18	12	0.0	3	0 2 3 3 4
+19	9	0.0	3	0 0 3 5 1
+20	199	0.0	4	1 13 142 40 3
+21	18534	0.0	4	7 15123 3314 80 10
+22	10938	0.0	4	8330 2232 326 45 5
+23	44	0.0	4	2 8 32 2
+38	1	0.0	4	0 0 1
+66	1	0.0	4	0 1
+129	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505111_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505111_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.520 s (19.741 µs/read; 3.04 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  77,016
+Reads with adapters:                    76,907 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        76,907 (99.9%)
+
+Total basepairs processed:    19,254,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     17,559,247 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 76907 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	1203.4	0	1
+5	3	75.2	1	1 2
+6	1	18.8	1	0 1
+7	1	4.7	1	0 1
+9	1	0.3	1	1
+14	4	0.0	2	0 2 2
+15	3	0.0	3	0 2 1
+16	6	0.0	3	2 2 1 1
+17	4	0.0	3	0 3 1
+18	24	0.0	3	4 7 2 8 3
+19	41	0.0	3	0 1 8 31 1
+20	276	0.0	4	2 20 198 56
+21	23598	0.0	4	50 18655 4767 118 8
+22	52815	0.0	4	48615 3676 446 63 15
+23	127	0.0	4	31 77 14 2 3
+28	1	0.0	4	0 1
+30	1	0.0	4	1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505112_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505112_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 4.526 s (15.695 µs/read; 3.82 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 288,374
+Reads with adapters:                   288,029 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       288,029 (99.9%)
+
+Total basepairs processed:    72,093,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     65,692,442 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 288029 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	2	281.6	1	0 2
+9	1	1.1	1	1
+10	2	0.3	2	0 2
+12	1	0.0	2	0 0 1
+13	5	0.0	2	2 2 1
+14	6	0.0	2	2 3 1
+15	6	0.0	3	1 2 2 1
+16	13	0.0	3	1 1 2 9
+17	28	0.0	3	10 4 7 7
+18	24	0.0	3	7 7 3 6 1
+19	121	0.0	3	12 16 20 72 1
+20	375	0.0	4	15 33 289 27 11
+21	20750	0.0	4	122 18335 2099 179 15
+22	266140	0.0	4	243379 13175 9204 312 70
+23	551	0.0	4	84 391 58 17 1
+24	2	0.0	4	0 0 1 0 1
+26	2	0.0	4	0 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505113_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505113_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.799 s (20.405 µs/read; 2.94 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  39,171
+Reads with adapters:                    39,128 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        39,128 (99.9%)
+
+Total basepairs processed:     9,792,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      8,936,915 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 39128 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	38.3	1	0 1
+14	2	0.0	2	0 2
+15	3	0.0	3	0 3
+16	3	0.0	3	2 0 0 1
+17	4	0.0	3	0 2 2
+18	14	0.0	3	0 2 1 6 5
+19	46	0.0	3	0 0 10 34 2
+20	1114	0.0	4	5 39 914 148 8
+21	13287	0.0	4	67 11380 1753 78 9
+22	24598	0.0	4	22628 1562 325 31 52
+23	50	0.0	4	8 29 8 4 1
+24	4	0.0	4	2 0 2
+27	1	0.0	4	0 0 0 0 1
+29	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505114_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505114_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.860 s (19.356 µs/read; 3.10 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  44,423
+Reads with adapters:                    44,360 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        44,360 (99.9%)
+
+Total basepairs processed:    11,105,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     10,134,155 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 44360 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	1	0.0	2	0 0 1
+14	4	0.0	2	2 2
+16	2	0.0	3	0 0 2
+17	8	0.0	3	0 3 4 1
+18	5	0.0	3	1 1 2 1
+19	30	0.0	3	0 3 9 15 3
+20	218	0.0	4	1 12 153 51 1
+21	19478	0.0	4	23 16307 3087 57 4
+22	24572	0.0	4	22206 2141 194 22 9
+23	42	0.0	4	2 24 16
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505115_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505115_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.328 s (28.653 µs/read; 2.09 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  11,444
+Reads with adapters:                    11,414 (99.7%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        11,414 (99.7%)
+
+Total basepairs processed:     2,861,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      2,612,669 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 11414 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+16	2	0.0	3	0 1 0 1
+18	2	0.0	3	0 1 0 0 1
+19	19	0.0	3	0 0 3 11 5
+20	138	0.0	4	0 3 76 53 6
+21	10000	0.0	4	0 6701 3236 58 5
+22	1245	0.0	4	1010 147 65 18 5
+23	6	0.0	4	0 2 4
+52	1	0.0	4	0 1
+62	1	0.0	4	0 0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505116_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505116_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.274 s (21.245 µs/read; 2.82 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  59,949
+Reads with adapters:                    59,805 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        59,805 (99.8%)
+
+Total basepairs processed:    14,987,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     13,654,986 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 59805 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	936.7	0	1
+4	1	234.2	0	0 1
+5	2	58.5	1	1 1
+13	1	0.0	2	0 1
+14	4	0.0	2	2 1 1
+15	9	0.0	3	3 6
+16	3	0.0	3	0 1 1 1
+17	7	0.0	3	3 1 1 2
+18	14	0.0	3	4 5 1 2 2
+19	26	0.0	3	2 5 4 13 2
+20	200	0.0	4	1 9 144 38 8
+21	18971	0.0	4	8 15380 3421 147 15
+22	40283	0.0	4	27425 6766 5875 174 43
+23	279	0.0	4	6 37 223 12 1
+24	4	0.0	4	0 1 0 1 2
+cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505095_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505095_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505096_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505096_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505097_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505097_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505098_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505098_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505099_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505099_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505100_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505100_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505101_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505101_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505102_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505102_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505103_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505103_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505104_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505104_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505105_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505105_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505106_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505106_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505107_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505107_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505108_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505108_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505109_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505109_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505110_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505110_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505111_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505111_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505112_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505112_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505113_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505113_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505114_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505114_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505115_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505115_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505116_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505116_00_L001_R1_001.fastq.gz
+
+
+Command: This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505117_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505117_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.894 s (19.053 µs/read; 3.15 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  99,393
+Reads with adapters:                    99,252 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        99,252 (99.9%)
+
+Total basepairs processed:    24,848,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     22,650,268 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 99252 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	1553.0	0	1
+5	1	97.1	1	0 1
+6	1	24.3	1	0 1
+10	2	0.1	2	2
+12	1	0.0	2	1
+14	3	0.0	2	0 2 1
+15	6	0.0	3	3 1 2
+16	13	0.0	3	4 4 0 5
+17	18	0.0	3	5 4 4 5
+18	20	0.0	3	3 7 4 5 1
+19	31	0.0	3	0 0 4 27
+20	303	0.0	4	2 12 207 78 4
+21	19848	0.0	4	33 14802 4839 163 11
+22	78869	0.0	4	52543 21808 4312 173 33
+23	135	0.0	4	18 76 35 6
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505118_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505118_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.712 s (23.384 µs/read; 2.57 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  73,220
+Reads with adapters:                    72,918 (99.6%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        72,918 (99.6%)
+
+Total basepairs processed:    18,305,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     16,663,889 bp (91.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 72918 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	71.5	1	0 1
+7	1	4.5	1	0 1
+13	1	0.0	2	1
+14	1	0.0	2	0 1
+15	9	0.0	3	4 3 2
+16	14	0.0	3	3 4 4 3
+17	9	0.0	3	3 3 1 2
+18	19	0.0	3	0 3 2 7 7
+19	124	0.0	3	0 0 24 70 30
+20	2709	0.0	4	1 70 1767 742 129
+21	32622	0.0	4	70 21448 9452 1504 148
+22	37298	0.0	4	22315 10581 3646 660 96
+23	95	0.0	4	6 39 35 10 5
+24	9	0.0	4	0 0 5 4
+25	3	0.0	4	0 0 0 3
+26	2	0.0	4	0 0 0 1 1
+36	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505119_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505119_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.720 s (24.675 µs/read; 2.43 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  29,178
+Reads with adapters:                    29,044 (99.5%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        29,044 (99.5%)
+
+Total basepairs processed:     7,294,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      6,641,557 bp (91.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 29044 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	3	455.9	0	3
+4	1	114.0	0	1
+5	4	28.5	1	0 4
+6	1	7.1	1	0 1
+10	2	0.0	2	2
+13	1	0.0	2	0 1
+14	1	0.0	2	0 1
+15	1	0.0	3	0 1
+16	6	0.0	3	1 4 1
+17	6	0.0	3	0 2 1 3
+18	8	0.0	3	1 1 3 2 1
+19	12	0.0	3	0 0 1 11
+20	217	0.0	4	0 12 154 49 2
+21	19689	0.0	4	7 16012 3584 69 17
+22	8193	0.0	4	6747 844 547 47 8
+23	896	0.0	4	1 5 873 16 1
+24	2	0.0	4	0 0 0 2
+61	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505120_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505120_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.449 s (25.746 µs/read; 2.33 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  17,439
+Reads with adapters:                    17,413 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        17,413 (99.9%)
+
+Total basepairs processed:     4,359,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      3,983,481 bp (91.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 17413 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	272.5	0	1
+4	1	68.1	0	0 1
+11	1	0.0	2	0 0 1
+16	1	0.0	3	0 0 1
+17	5	0.0	3	0 3 2
+18	2	0.0	3	0 0 1 0 1
+19	7	0.0	3	0 1 0 3 3
+20	167	0.0	4	0 7 97 58 5
+21	12879	0.0	4	5 9178 3625 65 6
+22	4345	0.0	4	3772 435 120 13 5
+23	4	0.0	4	0 1 1 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505121_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505121_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.480 s (24.920 µs/read; 2.41 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  19,258
+Reads with adapters:                    19,208 (99.7%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        19,208 (99.7%)
+
+Total basepairs processed:     4,814,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      4,397,827 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 19208 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+12	1	0.0	2	0 0 1
+13	1	0.0	2	0 0 1
+14	1	0.0	2	0 1
+16	2	0.0	3	0 0 1 1
+17	4	0.0	3	0 0 3 1
+18	7	0.0	3	0 2 1 2 2
+19	20	0.0	3	0 1 1 8 10
+20	247	0.0	4	0 8 153 80 6
+21	17772	0.0	4	0 12362 5306 93 11
+22	1143	0.0	4	523 258 280 53 29
+23	10	0.0	4	0 4 4 1 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505122_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505122_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.424 s (25.886 µs/read; 2.32 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  16,368
+Reads with adapters:                    16,310 (99.6%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        16,310 (99.6%)
+
+Total basepairs processed:     4,092,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      3,732,561 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 16310 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+15	1	0.0	3	0 1
+16	3	0.0	3	0 1 1 1
+17	5	0.0	3	0 4 1
+18	7	0.0	3	0 1 2 3 1
+19	21	0.0	3	0 1 0 8 12
+20	205	0.0	4	0 10 114 75 6
+21	13391	0.0	4	0 8893 4396 92 10
+22	2660	0.0	4	2233 269 128 22 8
+23	16	0.0	4	0 4 12
+67	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505123_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505123_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 3.557 s (15.485 µs/read; 3.87 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 229,721
+Reads with adapters:                   229,476 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       229,476 (99.9%)
+
+Total basepairs processed:    57,430,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     52,325,154 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 229476 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	224.3	1	0 1
+6	1	56.1	1	0 1
+10	1	0.2	2	1
+11	4	0.1	2	2 2
+12	2	0.0	2	1 0 1
+13	5	0.0	2	0 2 3
+14	8	0.0	2	2 4 2
+15	10	0.0	3	3 7
+16	9	0.0	3	0 3 3 3
+17	12	0.0	3	4 5 1 2
+18	36	0.0	3	7 6 4 15 4
+19	53	0.0	3	5 2 6 40
+20	231	0.0	4	20 9 194 8
+21	3926	0.0	4	128 3493 265 34 6
+22	224710	0.0	4	212121 11489 919 119 62
+23	467	0.0	4	67 345 52 3
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505124_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505124_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.799 s (22.363 µs/read; 2.68 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  80,450
+Reads with adapters:                    78,220 (97.2%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        78,220 (97.2%)
+
+Total basepairs processed:    20,112,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     17,890,997 bp (89.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 78220 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	78.6	1	0 1
+12	1	0.0	2	1
+13	2	0.0	2	0 0 2
+14	2	0.0	2	0 2
+15	3	0.0	3	0 2 0 1
+16	10	0.0	3	0 8 2
+17	11	0.0	3	4 4 3
+18	17	0.0	3	3 2 4 4 4
+19	61	0.0	3	1 5 8 38 9
+20	707	0.0	4	1 42 491 171 2
+21	55366	0.0	4	11 41875 13152 311 17
+22	21974	0.0	4	18350 2782 736 89 17
+23	57	0.0	4	11 31 7 0 8
+57	1	0.0	4	0 1
+60	3	0.0	4	0 1 2
+61	1	0.0	4	0 1
+66	1	0.0	4	0 1
+68	1	0.0	4	0 0 1
+78	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505125_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505125_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.367 s (16.248 µs/read; 3.69 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  84,159
+Reads with adapters:                    84,024 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        84,024 (99.8%)
+
+Total basepairs processed:    21,039,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     19,161,242 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 84024 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	2	1315.0	0	2
+4	1	328.7	0	0 1
+7	1	5.1	1	0 1
+9	3	0.3	1	3
+10	1	0.1	2	1
+12	1	0.0	2	0 0 1
+15	2	0.0	3	1 0 0 1
+16	4	0.0	3	4
+17	5	0.0	3	0 2 2 1
+18	23	0.0	3	10 5 0 4 4
+19	31	0.0	3	2 2 7 20
+20	106	0.0	4	1 11 87 4 3
+21	3340	0.0	4	44 2827 423 39 7
+22	80342	0.0	4	73349 5491 1431 53 18
+23	162	0.0	4	17 130 12 1 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505126_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505126_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.178 s (19.302 µs/read; 3.11 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  61,034
+Reads with adapters:                    60,920 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        60,920 (99.8%)
+
+Total basepairs processed:    15,258,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     13,908,465 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 60920 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+4	1	238.4	0	0 1
+5	1	59.6	1	0 1
+11	3	0.0	2	0 3
+13	2	0.0	2	2
+16	5	0.0	3	0 3 1 1
+17	4	0.0	3	1 1 1 1
+18	7	0.0	3	3 2 0 2
+19	20	0.0	3	3 2 2 13
+20	248	0.0	4	0 20 141 86 1
+21	18067	0.0	4	37 15940 2024 55 11
+22	42480	0.0	4	37467 4538 415 30 30
+23	82	0.0	4	10 57 11 1 3
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505127_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505127_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.681 s (15.882 µs/read; 3.78 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 105,813
+Reads with adapters:                   105,676 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       105,676 (99.9%)
+
+Total basepairs processed:    26,453,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     24,104,204 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 105676 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+10	1	0.1	2	1
+13	3	0.0	2	0 3
+14	5	0.0	2	0 4 1
+15	4	0.0	3	0 1 3
+16	6	0.0	3	1 2 1 2
+17	6	0.0	3	4 0 2
+18	8	0.0	3	2 2 1 2 1
+19	13	0.0	3	2 1 4 6
+20	147	0.0	4	2 11 119 13 2
+21	9729	0.0	4	62 8509 1076 73 9
+22	95563	0.0	4	88598 5480 1168 81 236
+23	191	0.0	4	45 119 16 11
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505128_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505128_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.145 s (20.380 µs/read; 2.94 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  56,194
+Reads with adapters:                    56,122 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        56,122 (99.9%)
+
+Total basepairs processed:    14,048,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     12,813,604 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 56122 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	878.0	0	1
+14	1	0.0	2	0 0 1
+15	1	0.0	3	0 1
+16	2	0.0	3	0 1 1
+17	3	0.0	3	0 1 1 1
+18	9	0.0	3	2 1 1 1 4
+19	16	0.0	3	0 3 2 9 2
+20	159	0.0	4	0 15 134 9 1
+21	17413	0.0	4	32 15415 1878 74 14
+22	38429	0.0	4	33144 3639 1454 76 116
+23	88	0.0	4	11 61 16
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505129_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505129_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.465 s (23.174 µs/read; 2.59 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 106,382
+Reads with adapters:                   104,242 (98.0%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       104,242 (98.0%)
+
+Total basepairs processed:    26,595,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     23,862,801 bp (89.7%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 104242 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	1662.2	0	1
+12	1	0.0	2	0 1
+13	3	0.0	2	0 1 2
+14	6	0.0	2	0 2 4
+15	10	0.0	3	0 3 6 1
+16	23	0.0	3	0 7 11 5
+17	44	0.0	3	0 26 16 2
+18	37	0.0	3	0 5 10 11 11
+19	91	0.0	3	0 10 16 45 20
+20	1205	0.0	4	2 77 771 343 12
+21	92440	0.0	4	4 68909 23073 417 37
+22	10349	0.0	4	8595 1124 534 83 13
+23	26	0.0	4	3 11 6 4 2
+29	1	0.0	4	0 0 0 0 1
+34	1	0.0	4	0 1
+38	1	0.0	4	0 0 1
+48	1	0.0	4	0 0 1
+60	1	0.0	4	0 1
+75	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505130_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505130_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.593 s (23.274 µs/read; 2.58 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  68,447
+Reads with adapters:                    67,007 (97.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        67,007 (97.9%)
+
+Total basepairs processed:    17,111,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     15,328,127 bp (89.6%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 67007 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+14	2	0.0	2	0 1 1
+15	6	0.0	3	0 5 1
+16	9	0.0	3	1 3 3 2
+17	14	0.0	3	1 6 5 2
+18	19	0.0	3	1 3 4 7 4
+19	34	0.0	3	2 2 0 21 9
+20	573	0.0	4	0 45 390 134 4
+21	49277	0.0	4	10 39482 9568 197 20
+22	17032	0.0	4	15126 1675 182 30 19
+23	39	0.0	4	6 24 6 1 2
+61	1	0.0	4	0 1
+196	1	0.0	4	0 0 0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505131_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505131_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.073 s (18.611 µs/read; 3.22 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  57,652
+Reads with adapters:                    57,563 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        57,563 (99.8%)
+
+Total basepairs processed:    14,413,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     13,139,460 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 57563 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+7	1	3.5	1	1
+13	1	0.0	2	0 0 1
+16	5	0.0	3	0 5
+17	3	0.0	3	1 0 0 2
+18	21	0.0	3	3 9 0 6 3
+19	20	0.0	3	1 0 3 15 1
+20	161	0.0	4	5 13 116 16 11
+21	14660	0.0	4	17 12539 1998 93 13
+22	42593	0.0	4	36787 3631 2009 100 66
+23	97	0.0	4	6 75 11 3 2
+24	1	0.0	4	0 0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505132_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505132_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.569 s (20.618 µs/read; 2.91 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  27,598
+Reads with adapters:                    27,563 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        27,563 (99.9%)
+
+Total basepairs processed:     6,899,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      6,297,579 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 27563 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+15	3	0.0	3	0 2 1
+16	2	0.0	3	0 1 1
+17	1	0.0	3	0 0 1
+18	10	0.0	3	2 3 0 3 2
+19	13	0.0	3	1 0 0 11 1
+20	176	0.0	4	0 13 93 67 3
+21	12790	0.0	4	4 8352 4347 78 9
+22	14524	0.0	4	13685 696 119 21 3
+23	44	0.0	4	9 30 1 2 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505133_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505133_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.408 s (22.667 µs/read; 2.65 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  18,000
+Reads with adapters:                    17,967 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        17,967 (99.8%)
+
+Total basepairs processed:     4,500,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      4,109,350 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 17967 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	17.6	1	0 1
+14	1	0.0	2	0 0 1
+16	2	0.0	3	0 0 2
+17	1	0.0	3	0 0 1
+18	3	0.0	3	1 1 0 1
+19	10	0.0	3	0 1 0 6 3
+20	162	0.0	4	0 9 98 55
+21	12478	0.0	4	5 8634 3751 80 8
+22	5298	0.0	4	4915 315 49 15 4
+23	10	0.0	4	2 6 1 1
+24	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505134_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505134_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.424 s (23.427 µs/read; 2.56 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  18,114
+Reads with adapters:                    18,087 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        18,087 (99.9%)
+
+Total basepairs processed:     4,528,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      4,137,714 bp (91.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 18087 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	283.0	0	1
+14	1	0.0	2	0 0 1
+16	2	0.0	3	0 2
+17	6	0.0	3	2 2 1 1
+18	10	0.0	3	0 3 1 1 5
+19	11	0.0	3	0 1 2 5 3
+20	185	0.0	4	0 4 118 62 1
+21	13412	0.0	4	1 9048 4260 94 9
+22	4449	0.0	4	4081 279 65 21 3
+23	8	0.0	4	0 4 4
+31	1	0.0	4	0 0 0 0 1
+51	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505135_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505135_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.386 s (19.803 µs/read; 3.03 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  69,982
+Reads with adapters:                    69,860 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        69,860 (99.8%)
+
+Total basepairs processed:    17,495,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     15,959,073 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 69860 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	68.3	1	0 1
+13	1	0.0	2	0 0 1
+14	4	0.0	2	0 3 0 1
+15	3	0.0	3	0 0 2 1
+16	4	0.0	3	0 4
+17	5	0.0	3	0 4 1
+18	23	0.0	3	6 2 3 4 8
+19	44	0.0	3	0 5 9 27 3
+20	457	0.0	4	3 38 240 169 7
+21	30022	0.0	4	33 20304 9444 216 25
+22	39122	0.0	4	35436 2324 1216 109 37
+23	170	0.0	4	12 98 22 32 6
+24	1	0.0	4	0 0 1
+61	1	0.0	4	0 0 1
+64	2	0.0	4	0 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505136_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505136_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.388 s (19.285 µs/read; 3.11 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  71,962
+Reads with adapters:                    71,844 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        71,844 (99.8%)
+
+Total basepairs processed:    17,990,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     16,404,345 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 71844 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	2	1124.4	0	2
+10	2	0.1	2	2
+14	6	0.0	2	4 2
+15	2	0.0	3	0 0 2
+16	4	0.0	3	2 1 0 1
+17	7	0.0	3	0 6 0 1
+18	13	0.0	3	3 0 1 4 5
+19	30	0.0	3	2 2 5 17 4
+20	292	0.0	4	3 17 209 59 4
+21	23201	0.0	4	32 18017 5049 94 9
+22	48088	0.0	4	45625 1949 455 39 20
+23	197	0.0	4	13 60 123 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505137_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505137_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.645 s (23.436 µs/read; 2.56 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  27,508
+Reads with adapters:                    27,375 (99.5%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        27,375 (99.5%)
+
+Total basepairs processed:     6,877,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      6,257,698 bp (91.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 27375 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	2	429.8	0	2
+4	1	107.5	0	0 1
+5	1	26.9	1	0 1
+6	2	6.7	1	0 2
+16	5	0.0	3	0 4 0 1
+17	6	0.0	3	1 1 4
+18	4	0.0	3	0 1 0 1 2
+19	14	0.0	3	0 1 0 13
+20	172	0.0	4	0 14 106 48 4
+21	15695	0.0	4	6 11329 4219 127 14
+22	11425	0.0	4	8419 1776 1149 72 9
+23	45	0.0	4	0 7 25 6 7
+24	2	0.0	4	0 0 2
+37	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505138_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505138_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.768 s (22.469 µs/read; 2.67 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  34,171
+Reads with adapters:                    34,063 (99.7%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        34,063 (99.7%)
+
+Total basepairs processed:     8,542,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      7,785,036 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 34063 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	533.9	0	1
+5	1	33.4	1	0 1
+10	2	0.0	2	2
+12	1	0.0	2	0 1
+14	2	0.0	2	0 1 0 1
+15	4	0.0	3	1 2 0 1
+16	3	0.0	3	1 0 2
+17	5	0.0	3	1 1 3
+18	13	0.0	3	1 1 3 5 3
+19	50	0.0	3	0 0 10 33 7
+20	1298	0.0	4	1 42 918 292 45
+21	15778	0.0	4	63 10938 4256 492 29
+22	16871	0.0	4	12544 3971 282 54 20
+23	33	0.0	4	1 26 4 2
+50	1	0.0	4	0 0 1
+cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505117_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505117_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505118_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505118_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505119_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505119_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505120_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505120_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505121_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505121_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505122_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505122_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505123_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505123_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505124_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505124_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505125_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505125_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505126_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505126_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505127_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505127_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505128_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505128_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505129_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505129_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505130_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505130_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505131_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505131_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505132_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505132_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505133_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505133_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505134_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505134_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505135_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505135_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505136_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505136_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505137_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505137_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505138_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505138_00_L001_R1_001.fastq.gz
+
+
+Command: This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505139_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505139_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.383 s (29.019 µs/read; 2.07 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  47,671
+Reads with adapters:                    47,274 (99.2%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        47,274 (99.2%)
+
+Total basepairs processed:    11,917,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     10,807,183 bp (90.7%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 47274 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+10	1	0.0	2	0 0 1
+13	2	0.0	2	0 1 1
+14	1	0.0	2	0 0 1
+16	1	0.0	3	0 1
+17	2	0.0	3	0 1 1
+18	3	0.0	3	0 0 1 0 2
+19	14	0.0	3	0 0 3 10 1
+20	518	0.0	4	0 5 112 102 299
+21	27698	0.0	4	0 14214 13083 320 81
+22	18910	0.0	4	3406 4248 9254 978 1024
+23	120	0.0	4	0 24 46 23 27
+24	1	0.0	4	0 0 1
+25	3	0.0	4	0 0 0 3
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505140_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505140_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 4.911 s (15.403 µs/read; 3.90 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 318,837
+Reads with adapters:                   318,483 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       318,483 (99.9%)
+
+Total basepairs processed:    79,709,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     72,621,559 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 318483 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	4981.8	0	1
+5	1	311.4	1	0 1
+9	6	1.2	1	6
+10	1	0.3	2	1
+11	3	0.1	2	0 3
+12	2	0.0	2	2
+13	9	0.0	2	3 4 2
+14	12	0.0	2	2 6 4
+15	10	0.0	3	0 3 3 4
+16	21	0.0	3	6 7 4 4
+17	38	0.0	3	10 11 6 11
+18	56	0.0	3	20 12 3 16 5
+19	104	0.0	3	7 11 12 71 3
+20	311	0.0	4	15 20 259 17
+21	6232	0.0	4	126 5434 615 47 10
+22	311042	0.0	4	294094 15174 1479 199 96
+23	626	0.0	4	73 479 62 7 5
+24	3	0.0	4	0 1 1 1
+29	1	0.0	4	1
+30	1	0.0	4	0 1
+32	1	0.0	4	0 0 0 1
+39	1	0.0	4	1
+45	1	0.0	4	1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505141_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505141_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.140 s (17.371 µs/read; 3.45 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 123,219
+Reads with adapters:                   123,082 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       123,082 (99.9%)
+
+Total basepairs processed:    30,804,750 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     28,066,632 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 123082 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	2	1925.3	0	2
+5	2	120.3	1	0 2
+9	1	0.5	1	1
+13	2	0.0	2	1 1
+14	6	0.0	2	0 4 2
+15	2	0.0	3	0 0 2
+16	5	0.0	3	2 0 2 1
+17	5	0.0	3	3 0 0 2
+18	17	0.0	3	12 2 0 3
+19	22	0.0	3	3 4 2 11 2
+20	126	0.0	4	5 8 91 14 8
+21	4697	0.0	4	47 3772 712 157 9
+22	116852	0.0	4	90363 5786 20052 562 89
+23	1334	0.0	4	40 143 1089 53 9
+24	8	0.0	4	0 0 1 3 4
+39	1	0.0	4	1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505142_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505142_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.047 s (25.624 µs/read; 2.34 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  40,853
+Reads with adapters:                    40,782 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        40,782 (99.8%)
+
+Total basepairs processed:    10,213,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      9,315,554 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 40782 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	2	638.3	0	2
+5	1	39.9	1	0 1
+12	1	0.0	2	0 1
+13	1	0.0	2	0 0 1
+15	1	0.0	3	0 1
+16	5	0.0	3	0 3 2
+17	8	0.0	3	1 3 1 3
+18	6	0.0	3	0 2 0 2 2
+19	18	0.0	3	1 1 2 14
+20	174	0.0	4	0 10 142 22
+21	16901	0.0	4	4 14513 2283 87 14
+22	23446	0.0	4	14763 5169 3384 115 15
+23	216	0.0	4	5 44 154 12 1
+24	2	0.0	4	0 0 0 0 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505143_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505143_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 3.896 s (16.244 µs/read; 3.69 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 239,838
+Reads with adapters:                   239,555 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       239,555 (99.9%)
+
+Total basepairs processed:    59,959,500 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     54,674,231 bp (91.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 239555 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+11	2	0.1	2	1 0 1
+12	1	0.0	2	0 1
+13	4	0.0	2	3 1
+14	10	0.0	2	5 5
+15	9	0.0	3	5 3 1
+16	24	0.0	3	9 9 2 4
+17	35	0.0	3	5 10 16 4
+18	46	0.0	3	9 10 8 10 9
+19	184	0.0	3	0 4 38 133 9
+20	3386	0.0	4	12 184 2681 482 27
+21	48029	0.0	4	504 40582 6469 423 51
+22	187483	0.0	4	173082 11632 2504 177 88
+23	327	0.0	4	49 246 20 12
+24	3	0.0	4	0 0 2 1
+25	6	0.0	4	0 2 0 2 2
+26	5	0.0	4	0 0 0 0 5
+27	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505144_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505144_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.635 s (27.697 µs/read; 2.17 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  22,941
+Reads with adapters:                    22,884 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        22,884 (99.8%)
+
+Total basepairs processed:     5,735,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      5,236,641 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 22884 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	22.4	1	0 1
+13	1	0.0	2	0 0 1
+14	1	0.0	2	0 1
+15	1	0.0	3	0 1
+16	1	0.0	3	0 0 1
+17	5	0.0	3	0 2 3
+18	4	0.0	3	0 1 2 1
+19	17	0.0	3	0 0 4 11 2
+20	203	0.0	4	0 13 143 45 2
+21	18660	0.0	4	1 14075 4498 82 4
+22	3976	0.0	4	2959 781 203 29 4
+23	11	0.0	4	0 7 3 1
+54	1	0.0	4	0 1
+56	1	0.0	4	0 0 1
+61	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505145_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505145_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.353 s (25.828 µs/read; 2.32 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  13,656
+Reads with adapters:                    13,622 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        13,622 (99.8%)
+
+Total basepairs processed:     3,414,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      3,118,020 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 13622 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	1	0.0	2	0 0 1
+15	1	0.0	3	0 0 1
+16	1	0.0	3	0 1
+17	2	0.0	3	0 1 1
+18	5	0.0	3	0 0 0 3 2
+19	8	0.0	3	0 1 0 5 2
+20	168	0.0	4	0 5 105 56 2
+21	11861	0.0	4	0 8255 3528 72 6
+22	1572	0.0	4	1332 164 53 19 4
+23	1	0.0	4	0 1
+49	1	0.0	4	0 1
+63	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505146_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505146_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.306 s (18.722 µs/read; 3.20 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  69,748
+Reads with adapters:                    69,661 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        69,661 (99.9%)
+
+Total basepairs processed:    17,437,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     15,887,511 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 69661 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	1	68.1	1	0 1
+9	1	0.3	1	1
+10	1	0.1	2	1
+13	4	0.0	2	2 0 2
+14	2	0.0	2	0 1 1
+15	3	0.0	3	0 3
+17	7	0.0	3	5 1 0 1
+18	9	0.0	3	4 2 0 3
+19	28	0.0	3	3 3 10 12
+20	71	0.0	4	4 2 60 5
+21	5043	0.0	4	34 4226 693 85 5
+22	63840	0.0	4	49790 3473 10292 250 35
+23	650	0.0	4	14 105 504 26 1
+24	1	0.0	4	0 0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505147_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505147_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 1.872 s (17.974 µs/read; 3.34 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 104,168
+Reads with adapters:                   104,041 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       104,041 (99.9%)
+
+Total basepairs processed:    26,042,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     23,724,151 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 104041 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+14	2	0.0	2	0 2
+15	5	0.0	3	1 3 1
+16	1	0.0	3	1
+17	10	0.0	3	2 1 3 4
+18	11	0.0	3	4 3 2 2
+19	37	0.0	3	10 4 2 21
+20	96	0.0	4	5 9 70 11 1
+21	3083	0.0	4	57 2487 437 100 2
+22	100073	0.0	4	80180 6102 13401 347 43
+23	712	0.0	4	32 145 509 25 1
+24	11	0.0	4	1 0 0 3 7
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505148_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505148_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.691 s (22.471 µs/read; 2.67 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  30,749
+Reads with adapters:                    30,679 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        30,679 (99.8%)
+
+Total basepairs processed:     7,687,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      7,015,451 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 30679 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	2	0.0	2	0 1 1
+16	2	0.0	3	0 1 0 1
+17	4	0.0	3	0 2 2
+18	6	0.0	3	2 2 0 1 1
+19	14	0.0	3	0 1 2 8 3
+20	211	0.0	4	2 14 155 40
+21	20273	0.0	4	9 16904 3292 61 7
+22	10129	0.0	4	7749 2140 210 25 5
+23	35	0.0	4	2 10 23
+55	1	0.0	4	0 1
+74	2	0.0	4	0 1 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505149_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505149_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.681 s (23.722 µs/read; 2.53 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 112,997
+Reads with adapters:                   110,100 (97.4%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       110,100 (97.4%)
+
+Total basepairs processed:    28,249,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     25,199,362 bp (89.2%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 110100 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	3	1765.6	0	3
+5	1	110.3	1	0 1
+6	1	27.6	1	0 1
+13	1	0.0	2	0 0 1
+14	2	0.0	2	0 0 1 1
+15	7	0.0	3	0 6 0 1
+16	10	0.0	3	0 6 3 1
+17	20	0.0	3	0 8 10 2
+18	28	0.0	3	0 3 7 8 10
+19	77	0.0	3	0 4 12 46 15
+20	1269	0.0	4	0 57 771 414 27
+21	93610	0.0	4	7 63398 29577 579 49
+22	14980	0.0	4	5623 4507 4443 323 84
+23	74	0.0	4	2 18 26 18 10
+24	9	0.0	4	0 0 0 9
+32	1	0.0	4	0 1
+33	2	0.0	4	0 0 1 1
+34	1	0.0	4	0 0 0 1
+37	1	0.0	4	0 0 1
+44	1	0.0	4	0 0 1
+58	1	0.0	4	0 1
+66	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505150_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505150_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.289 s (23.995 µs/read; 2.50 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  95,401
+Reads with adapters:                    93,088 (97.6%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        93,088 (97.6%)
+
+Total basepairs processed:    23,850,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     21,315,212 bp (89.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 93088 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	2	1490.6	0	2
+12	1	0.0	2	0 0 1
+13	1	0.0	2	0 1
+14	4	0.0	2	0 1 3
+15	4	0.0	3	1 2 1
+16	21	0.0	3	0 10 9 2
+17	43	0.0	3	0 23 14 6
+18	38	0.0	3	1 5 5 12 15
+19	112	0.0	3	0 9 14 74 15
+20	1482	0.0	4	0 80 919 470 13
+21	87761	0.0	4	0 61753 25455 513 40
+22	3588	0.0	4	2531 654 298 86 19
+23	17	0.0	4	2 6 2 1 6
+32	1	0.0	4	0 1
+44	1	0.0	4	0 1
+50	1	0.0	4	0 1
+52	1	0.0	4	0 0 1
+57	1	0.0	4	0 0 1
+61	6	0.0	4	0 4 1 1
+66	1	0.0	4	0 0 0 1
+73	1	0.0	4	0 1
+74	1	0.0	4	0 0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505151_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505151_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.822 s (21.576 µs/read; 2.78 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 130,789
+Reads with adapters:                   130,508 (99.8%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       130,508 (99.8%)
+
+Total basepairs processed:    32,697,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     29,763,859 bp (91.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 130508 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	1	2043.6	0	1
+4	1	510.9	0	1
+5	2	127.7	1	0 2
+10	2	0.1	2	2
+13	1	0.0	2	0 0 1
+14	5	0.0	2	0 1 4
+15	4	0.0	3	1 0 3
+16	8	0.0	3	4 0 3 1
+17	16	0.0	3	3 9 4
+18	12	0.0	3	3 2 5 1 1
+19	31	0.0	3	0 4 5 6 16
+20	139	0.0	4	1 12 75 44 7
+21	7641	0.0	4	22 5498 1900 206 15
+22	122356	0.0	4	31181 75569 15110 434 62
+23	287	0.0	4	3 80 170 29 5
+41	2	0.0	4	0 2
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505152_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505152_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 2.793 s (15.669 µs/read; 3.83 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 178,248
+Reads with adapters:                   178,021 (99.9%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):       178,021 (99.9%)
+
+Total basepairs processed:    44,562,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):     40,606,648 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 178021 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+5	2	174.1	1	0 2
+11	2	0.0	2	2
+12	2	0.0	2	0 0 2
+13	1	0.0	2	0 1
+14	1	0.0	2	1
+15	7	0.0	3	1 2 3 1
+16	10	0.0	3	1 6 2 1
+17	14	0.0	3	9 3 2
+18	24	0.0	3	6 4 4 9 1
+19	49	0.0	3	4 5 10 30
+20	249	0.0	4	5 19 201 20 4
+21	17189	0.0	4	73 15338 1716 51 11
+22	160141	0.0	4	153065 6367 594 81 34
+23	329	0.0	4	56 255 14 3 1
+35	1	0.0	4	1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505153_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505153_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.912 s (26.004 µs/read; 2.31 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  35,089
+Reads with adapters:                    34,991 (99.7%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        34,991 (99.7%)
+
+Total basepairs processed:     8,772,250 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      8,007,125 bp (91.3%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 34991 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	1	0.0	2	0 1
+14	5	0.0	2	0 2 2 1
+15	4	0.0	3	2 2
+16	10	0.0	3	0 5 3 2
+17	9	0.0	3	0 4 2 3
+18	10	0.0	3	0 2 3 4 1
+19	41	0.0	3	1 4 4 20 12
+20	500	0.0	4	0 23 296 167 14
+21	27879	0.0	4	8 19187 8496 169 19
+22	6522	0.0	4	5578 571 325 38 10
+23	9	0.0	4	0 7 2
+60	1	0.0	4	0 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505154_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505154_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.557 s (24.343 µs/read; 2.46 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  22,864
+Reads with adapters:                    22,751 (99.5%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        22,751 (99.5%)
+
+Total basepairs processed:     5,716,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      5,199,067 bp (91.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 22751 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+6	1	5.6	1	0 1
+7	2	1.4	1	0 2
+12	1	0.0	2	0 0 1
+14	5	0.0	2	0 5
+15	1	0.0	3	0 1
+16	3	0.0	3	0 2 1
+17	7	0.0	3	0 2 4 1
+18	10	0.0	3	1 2 1 6
+19	48	0.0	3	0 1 8 31 8
+20	844	0.0	4	1 27 593 198 25
+21	9840	0.0	4	30 7058 2437 287 28
+22	11962	0.0	4	8778 2784 309 65 26
+23	25	0.0	4	6 12 6 0 1
+24	2	0.0	4	0 1 1
+This is cutadapt 4.9 with Python 3.9.19
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505155_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505155_00_L001_R1_001.fastq.gz
+Processing single-end reads on 1 core ...
+Finished in 0.860 s (22.338 µs/read; 2.69 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                  38,480
+Reads with adapters:                    38,346 (99.7%)
+
+== Read fate breakdown ==
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):        38,346 (99.7%)
+
+Total basepairs processed:     9,620,000 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):      8,761,557 bp (91.1%)
+
+=== Adapter 1 ===
+
+Sequence: CTTGGTCATTTAGAGGAAGTAA; Type: regular 5'; Length: 22; Trimmed: 38346 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-4 bp: 0; 5-9 bp: 1; 10-14 bp: 2; 15-19 bp: 3; 20-22 bp: 4
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+13	1	0.0	2	0 1
+15	3	0.0	3	0 2 1
+16	5	0.0	3	2 2 1
+17	6	0.0	3	2 0 2 2
+18	15	0.0	3	0 5 2 7 1
+19	63	0.0	3	0 2 17 29 15
+20	1372	0.0	4	2 48 981 305 36
+21	15660	0.0	4	65 11213 3966 382 34
+22	21177	0.0	4	15486 5080 502 81 28
+23	39	0.0	4	5 25 3 1 5
+24	1	0.0	4	0 0 1
+25	1	0.0	4	0 0 1
+26	1	0.0	4	0 0 0 0 1
+32	1	0.0	4	0 1
+38	1	0.0	4	0 0 1
+cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505139_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505139_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505140_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505140_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505141_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505141_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505142_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505142_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505143_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505143_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505144_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505144_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505145_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505145_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505146_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505146_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505147_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505147_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505148_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505148_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505149_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505149_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505150_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505150_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505151_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505151_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505152_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505152_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505153_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505153_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505154_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505154_00_L001_R1_001.fastq.gz
+
+
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 3 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-6pl8e43p/SRR10505155_00_L001_R1_001.fastq.gz --front CTTGGTCATTTAGAGGAAGTAA --discard-untrimmed /tmp/qiime2/jovyan/data/15b104e4-bd22-4469-92ac-e08f76767733/data/SRR10505155_00_L001_R1_001.fastq.gz
+
+Saved SampleData[SequencesWithQuality] to: data/pundemic_forward_reads_trimmed.qza
