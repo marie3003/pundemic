@@ -1,0 +1,68 @@
+id	patient_id	age	sex	ethnicity	continent	country	region	city	group	disease_subgroup	blinded_clinical_response	puns_per_hour_pre_treatment	puns_per_hour_post_treatment	time_point	subgroup_response	shannon_entropy
+SRR10505051	1048	36	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	9.0	8.0	post-treatment	Placebo_NR	1.2935218881933583
+SRR10505052	1048	36	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	9.0	8.0	pre-treatment	Placebo_NR	0.9789782674718774
+SRR10505053	1045	29	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	Res	6.0	0.0	pre-treatment	Placebo_Res	0.3057942945908373
+SRR10505057	1043	35	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	9.0	6.0	post-treatment	FMT_NR	1.5899369779734431
+SRR10505058	1043	35	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	9.0	6.0	pre-treatment	FMT_NR	1.9840840622785496
+SRR10505060	1042	40	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	9.0	8.0	pre-treatment	Placebo_NR	0.9844735285158052
+SRR10505061	2212	27	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	8.0	4.0	pre-treatment	FMT_NR	1.1890859521311992
+SRR10505062	1041	39	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	6.0	0.0	post-treatment	FMT_Res	1.284004776681129
+SRR10505063	1041	39	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	6.0	0.0	pre-treatment	FMT_Res	1.8010220596861604
+SRR10505064	1040	52	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	7.0	7.0	pre-treatment	Placebo_NR	0.542279231613405
+SRR10505065	1040	52	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	7.0	7.0	post-treatment	Placebo_NR	1.822155734997613
+SRR10505066	1038	35	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	6.0	2.0	pre-treatment	FMT_NR	1.8997151437054172
+SRR10505067	1037	46	male	Mediterranean	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	9.0	5.0	post-treatment	FMT_NR	0.1098706523683173
+SRR10505068	1036	36	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	4.0	3.0	pre-treatment	Placebo_NR	0.9796142671568114
+SRR10505069	1036	36	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	4.0	3.0	post-treatment	Placebo_NR	1.734374821840832
+SRR10505071	1035	27	male	Asian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	8.0	5.0	pre-treatment	FMT_NR	0.9877516446184847
+SRR10505072	2212	27	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	8.0	4.0	post-treatment	FMT_NR	0.180151740367895
+SRR10505076	2223	21	female	Mediterranean	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	8.0	8.0	pre-treatment	Placebo_NR	2.869208676772608
+SRR10505077	2225	34	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	6.0	5.0	post-treatment	FMT_NR	2.9268529608983846
+SRR10505078	2224	50	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	9.0	4.0	post-treatment	Placebo_NR	2.506459845775677
+SRR10505079	2224	50	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	9.0	4.0	pre-treatment	Placebo_NR	1.320581962724663
+SRR10505080	2223	21	female	Mediterranean	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	8.0	8.0	post-treatment	Placebo_NR	0.5110849917291457
+SRR10505081	2222	37	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	8.0	4.0	pre-treatment	FMT_NR	1.5075446620060546
+SRR10505083	2221	49	female	Mediterranean	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	6.0	2.0	pre-treatment	FMT_Res	3.701217720204133
+SRR10505084	2221	49	female	Mediterranean	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	6.0	2.0	post-treatment	FMT_Res	3.069957944687831
+SRR10505085	2220	61	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	9.0	9.0	post-treatment	Placebo_NR	1.0505680503650745
+SRR10505086	2219	59	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	7.0	2.0	pre-treatment	FMT_Res	1.3240930948026235
+SRR10505087	2220	61	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	9.0	9.0	pre-treatment	Placebo_NR	0.8506006992499328
+SRR10505088	2219	59	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	7.0	2.0	post-treatment	FMT_Res	1.1822862320474177
+SRR10505089	2217	17	female	Asian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	8.0	2.0	post-treatment	FMT_Res	1.3897390696406835
+SRR10505090	2216	22	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	9.0	6.0	post-treatment	FMT_NR	1.1653679214135946
+SRR10505091	2216	22	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	9.0	6.0	pre-treatment	FMT_NR	1.309142817091424
+SRR10505094	2205	48	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	5.0	1.0	pre-treatment	FMT_Res	0.2433105876157462
+SRR10505095	2202	22	male	Arabic/Middle Eastern	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	6.0	7.0	pre-treatment	FMT_NR	0.2693393279242727
+SRR10505096	2202	22	male	Arabic/Middle Eastern	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	6.0	7.0	post-treatment	FMT_NR	1.332227065715024
+SRR10505097	2201	66	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	9.0	4.0	post-treatment	Placebo_NR	0.1503662739135219
+SRR10505098	2217	17	female	Asian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	8.0	2.0	pre-treatment	FMT_Res	2.2792470968652
+SRR10505099	1031	38	male	Mediterranean	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	8.0	4.0	post-treatment	FMT_NR	1.3190671338615805
+SRR10505100	1031	38	male	Mediterranean	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	8.0	4.0	pre-treatment	FMT_NR	1.0634130764710443
+SRR10505101	1030	28	male	Indian Subcontinental	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	4.0	2.0	post-treatment	Placebo_NR	1.1685424014667396
+SRR10505102	1030	28	male	Indian Subcontinental	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	4.0	2.0	pre-treatment	Placebo_NR	1.050056213101847
+SRR10505103	1028	54	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	7.0	1.0	post-treatment	FMT_Res	1.5006553995577616
+SRR10505104	1028	54	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	7.0	1.0	pre-treatment	FMT_Res	1.1225039652081676
+SRR10505105	1026	29	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	7.0	5.0	post-treatment	Placebo_NR	0.7611525070983953
+SRR10505106	1026	29	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	7.0	5.0	pre-treatment	Placebo_NR	1.5322608562379954
+SRR10505107	2207	26	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	10.0	7.0	pre-treatment	FMT_NR	1.0261873642413954
+SRR10505108	1025	37	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	8.0	2.0	post-treatment	FMT_Res	1.3743483998379935
+SRR10505110	1022	21	male	Indian Subcontinental	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	10.0	4.0	post-treatment	FMT_NR	1.401698093427582
+SRR10505111	1021	25	female	Mediterranean	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	4.0	2.0	post-treatment	Placebo_NR	1.5010386659404973
+SRR10505112	1019	38	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	8.0	9.0	post-treatment	Placebo_NR	0.6489701679138089
+SRR10505113	1019	38	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	8.0	9.0	pre-treatment	Placebo_NR	3.418284045306687
+SRR10505114	1018	49	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	6.0	4.0	pre-treatment	FMT_NR	0.3541707927004451
+SRR10505116	1017	40	female	Mediterranean	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	7.0	4.0	pre-treatment	Placebo_NR	2.1936812576865474
+SRR10505117	1017	40	female	Mediterranean	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	7.0	4.0	post-treatment	Placebo_NR	1.0948477185414436
+SRR10505118	2201	66	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	9.0	4.0	pre-treatment	Placebo_NR	1.5331087926050446
+SRR10505120	1015	34	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	5.0	6.0	post-treatment	Placebo_NR	0.5177526267252631
+SRR10505131	2226	46	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	8.0	0.0	post-treatment	FMT_Res	1.792431466479715
+SRR10505134	1007	52	female	Arabic/Middle Eastern	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	10.0	6.0	post-treatment	FMT_NR	0.5592522530796004
+SRR10505135	1007	52	female	Arabic/Middle Eastern	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	10.0	6.0	pre-treatment	FMT_NR	0.3287349515079881
+SRR10505136	1005	30	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	8.0	8.0	post-treatment	Placebo_NR	0.6292302635765542
+SRR10505138	1024	Unknown	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	8.0	0.0	pre-treatment	FMT_Res	1.724737319357885
+SRR10505140	1002	34	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	10.0	11.0	pre-treatment	FMT_NR	1.0802306722631427
+SRR10505141	1001	57	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	7.0	2.0	pre-treatment	FMT_Res	2.9214205879642043
+SRR10505142	1001	57	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	7.0	2.0	post-treatment	FMT_Res	2.4977539217208578
+SRR10505153	2225	34	male	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	NR	6.0	5.0	pre-treatment	FMT_NR	0.209602802217272
+SRR10505154	1024	Unknown	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	FMT	Res	8.0	0.0	post-treatment	FMT_Res	2.024749901336141
+SRR10505155	1005	30	female	Caucasian	Europe	Switzerland	Zurich	Zurich	Puns	Placebo	NR	8.0	8.0	pre-treatment	Placebo_NR	1.832957272577768
