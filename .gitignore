@@ -15,3 +15,4 @@ data/pundemic_forward_reads_trimmed_qfiltered.qza
 data/pundemic_forward_reads_trimmed_backtrimmed_QCfiltered_stats.qza
 data/pundemic_forward_reads_trimmed_QCfiltered.qza
 data/uniteDB/unite_ver10_99_all_04.04.2024-Q2-2024.5.qza
+data/preprocessing/pundemic_forward_reads_trimmed_QCfiltered_2.qza

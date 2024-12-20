@@ -1,7 +1,7 @@
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505051_0_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505051_0_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505051_0_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505051_0_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.677 s (18.148 µs/read; 3.31 M reads/minute).
+Finished in 0.595 s (15.962 µs/read; 3.76 M reads/minute).
 
 === Summary ===
 
@@ -171,9 +171,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505052_1_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505052_1_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505052_1_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505052_1_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.314 s (18.905 µs/read; 3.17 M reads/minute).
+Finished in 0.309 s (18.616 µs/read; 3.22 M reads/minute).
 
 === Summary ===
 
@@ -353,9 +353,9 @@ length	count	expect	max.err	error counts
 221	1	0.0	4	0 0 0 1
 224	1	0.0	4	0 0 0 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505053_2_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505053_2_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505053_2_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505053_2_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.417 s (15.556 µs/read; 3.86 M reads/minute).
+Finished in 1.421 s (15.601 µs/read; 3.85 M reads/minute).
 
 === Summary ===
 
@@ -581,9 +581,9 @@ length	count	expect	max.err	error counts
 226	1	0.0	4	0 0 0 0 1
 228	1	0.0	4	0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505054_3_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505054_3_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505054_3_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505054_3_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.223 s (19.736 µs/read; 3.04 M reads/minute).
+Finished in 0.149 s (13.191 µs/read; 4.55 M reads/minute).
 
 === Summary ===
 
@@ -719,9 +719,9 @@ length	count	expect	max.err	error counts
 198	1	0.0	4	0 0 1
 201	1	0.0	4	1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505055_4_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505055_4_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505055_4_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505055_4_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.306 s (13.430 µs/read; 4.47 M reads/minute).
+Finished in 0.311 s (13.654 µs/read; 4.39 M reads/minute).
 
 === Summary ===
 
@@ -904,9 +904,9 @@ length	count	expect	max.err	error counts
 223	1	0.0	4	0 0 0 0 1
 227	1	0.0	4	0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505056_5_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505056_5_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505056_5_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505056_5_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 2.837 s (17.776 µs/read; 3.38 M reads/minute).
+Finished in 2.974 s (18.639 µs/read; 3.22 M reads/minute).
 
 === Summary ===
 
@@ -1152,9 +1152,9 @@ length	count	expect	max.err	error counts
 228	128	0.0	4	97 17 5 2 7
 229	4	0.0	4	4
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505057_6_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505057_6_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505057_6_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505057_6_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.275 s (13.793 µs/read; 4.35 M reads/minute).
+Finished in 0.293 s (14.697 µs/read; 4.08 M reads/minute).
 
 === Summary ===
 
@@ -1381,9 +1381,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505058_7_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505058_7_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505058_7_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505058_7_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.001 s (17.068 µs/read; 3.52 M reads/minute).
+Finished in 0.967 s (16.478 µs/read; 3.64 M reads/minute).
 
 === Summary ===
 
@@ -1632,9 +1632,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505059_8_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505059_8_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505059_8_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505059_8_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.687 s (18.053 µs/read; 3.32 M reads/minute).
+Finished in 0.597 s (15.687 µs/read; 3.82 M reads/minute).
 
 === Summary ===
 
@@ -1882,9 +1882,9 @@ length	count	expect	max.err	error counts
 227	6	0.0	4	4 1 0 0 1
 228	28	0.0	4	4 0 1 9 14
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505060_9_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505060_9_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505060_9_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505060_9_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.248 s (14.081 µs/read; 4.26 M reads/minute).
+Finished in 0.237 s (13.466 µs/read; 4.46 M reads/minute).
 
 === Summary ===
 
@@ -2065,9 +2065,9 @@ length	count	expect	max.err	error counts
 224	1	0.0	4	0 1
 228	2	0.0	4	1 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505061_10_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505061_10_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505061_10_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505061_10_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.222 s (16.124 µs/read; 3.72 M reads/minute).
+Finished in 1.147 s (15.131 µs/read; 3.97 M reads/minute).
 
 === Summary ===
 
@@ -2317,9 +2317,9 @@ length	count	expect	max.err	error counts
 229	41	0.0	4	20 9 5 1 6
 230	2	0.0	4	0 0 0 0 2
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505062_11_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505062_11_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505062_11_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505062_11_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.650 s (15.630 µs/read; 3.84 M reads/minute).
+Finished in 0.669 s (16.099 µs/read; 3.73 M reads/minute).
 
 === Summary ===
 
@@ -2478,9 +2478,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505063_12_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505063_12_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505063_12_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505063_12_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.602 s (17.994 µs/read; 3.33 M reads/minute).
+Finished in 1.479 s (16.610 µs/read; 3.61 M reads/minute).
 
 === Summary ===
 
@@ -2678,9 +2678,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505064_13_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505064_13_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505064_13_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505064_13_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 4.338 s (17.310 µs/read; 3.47 M reads/minute).
+Finished in 4.391 s (17.523 µs/read; 3.42 M reads/minute).
 
 === Summary ===
 
@@ -2928,9 +2928,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505065_14_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505065_14_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505065_14_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505065_14_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 3.808 s (17.897 µs/read; 3.35 M reads/minute).
+Finished in 3.746 s (17.604 µs/read; 3.41 M reads/minute).
 
 === Summary ===
 
@@ -3180,9 +3180,9 @@ length	count	expect	max.err	error counts
 228	305	0.0	4	209 59 20 11 6
 229	5	0.0	4	4 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505066_15_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505066_15_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505066_15_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505066_15_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 2.284 s (16.771 µs/read; 3.58 M reads/minute).
+Finished in 2.259 s (16.586 µs/read; 3.62 M reads/minute).
 
 === Summary ===
 
@@ -3431,9 +3431,9 @@ length	count	expect	max.err	error counts
 228	31	0.0	4	12 7 5 2 5
 229	1	0.0	4	0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505067_16_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505067_16_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505067_16_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505067_16_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 2.459 s (16.973 µs/read; 3.53 M reads/minute).
+Finished in 2.580 s (17.810 µs/read; 3.37 M reads/minute).
 
 === Summary ===
 
@@ -3652,9 +3652,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505068_17_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505068_17_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505068_17_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505068_17_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.319 s (17.672 µs/read; 3.40 M reads/minute).
+Finished in 1.233 s (16.520 µs/read; 3.63 M reads/minute).
 
 === Summary ===
 
@@ -3820,9 +3820,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505069_18_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505069_18_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505069_18_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505069_18_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 7.154 s (16.162 µs/read; 3.71 M reads/minute).
+Finished in 7.152 s (16.157 µs/read; 3.71 M reads/minute).
 
 === Summary ===
 
@@ -4082,9 +4082,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505070_19_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505070_19_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505070_19_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505070_19_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.215 s (14.489 µs/read; 4.14 M reads/minute).
+Finished in 0.198 s (13.377 µs/read; 4.49 M reads/minute).
 
 === Summary ===
 
@@ -4228,9 +4228,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505071_20_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505071_20_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505071_20_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505071_20_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.518 s (15.937 µs/read; 3.76 M reads/minute).
+Finished in 0.546 s (16.803 µs/read; 3.57 M reads/minute).
 
 === Summary ===
 
@@ -4419,9 +4419,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505072_21_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505072_21_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505072_21_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505072_21_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.601 s (16.511 µs/read; 3.63 M reads/minute).
+Finished in 0.643 s (17.665 µs/read; 3.40 M reads/minute).
 
 === Summary ===
 
@@ -4609,9 +4609,9 @@ length	count	expect	max.err	error counts
 221	5	0.0	4	2 2 0 1
 225	3	0.0	4	2 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505073_22_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505073_22_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505073_22_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505073_22_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.376 s (14.363 µs/read; 4.18 M reads/minute).
+Finished in 0.423 s (16.146 µs/read; 3.72 M reads/minute).
 
 === Summary ===
 
@@ -4812,79 +4812,79 @@ length	count	expect	max.err	error counts
 Running external command line application. This may print messages to stdout and/or stderr.
 The commands to be run are below. These commands cannot be manually re-run as they will depend on temporary files that no longer exist.
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505051_0_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505051_0_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505051_0_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505051_0_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505052_1_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505052_1_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505052_1_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505052_1_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505053_2_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505053_2_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505053_2_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505053_2_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505054_3_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505054_3_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505054_3_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505054_3_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505055_4_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505055_4_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505055_4_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505055_4_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505056_5_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505056_5_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505056_5_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505056_5_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505057_6_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505057_6_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505057_6_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505057_6_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505058_7_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505058_7_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505058_7_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505058_7_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505059_8_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505059_8_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505059_8_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505059_8_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505060_9_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505060_9_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505060_9_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505060_9_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505061_10_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505061_10_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505061_10_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505061_10_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505062_11_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505062_11_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505062_11_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505062_11_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505063_12_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505063_12_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505063_12_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505063_12_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505064_13_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505064_13_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505064_13_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505064_13_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505065_14_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505065_14_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505065_14_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505065_14_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505066_15_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505066_15_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505066_15_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505066_15_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505067_16_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505067_16_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505067_16_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505067_16_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505068_17_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505068_17_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505068_17_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505068_17_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505069_18_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505069_18_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505069_18_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505069_18_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505070_19_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505070_19_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505070_19_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505070_19_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505071_20_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505071_20_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505071_20_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505071_20_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505072_21_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505072_21_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505072_21_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505072_21_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505073_22_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505073_22_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505073_22_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505073_22_L001_R1_001.fastq.gz
 
 
 Command: This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505074_23_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505074_23_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505074_23_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505074_23_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.427 s (15.086 µs/read; 3.98 M reads/minute).
+Finished in 0.466 s (16.453 µs/read; 3.65 M reads/minute).
 
 === Summary ===
 
@@ -5100,9 +5100,9 @@ length	count	expect	max.err	error counts
 227	3	0.0	4	0 2 1
 228	2	0.0	4	1 0 0 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505075_24_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505075_24_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505075_24_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505075_24_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.592 s (17.503 µs/read; 3.43 M reads/minute).
+Finished in 0.545 s (16.113 µs/read; 3.72 M reads/minute).
 
 === Summary ===
 
@@ -5333,9 +5333,9 @@ length	count	expect	max.err	error counts
 227	5	0.0	4	1 2 2
 228	7	0.0	4	3 3 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505076_25_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505076_25_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505076_25_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505076_25_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.287 s (19.364 µs/read; 3.10 M reads/minute).
+Finished in 1.287 s (19.363 µs/read; 3.10 M reads/minute).
 
 === Summary ===
 
@@ -5582,9 +5582,9 @@ length	count	expect	max.err	error counts
 228	115	0.0	4	65 18 12 9 11
 229	9	0.0	4	4 2 0 2 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505077_26_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505077_26_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505077_26_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505077_26_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.228 s (18.764 µs/read; 3.20 M reads/minute).
+Finished in 1.230 s (18.802 µs/read; 3.19 M reads/minute).
 
 === Summary ===
 
@@ -5832,9 +5832,9 @@ length	count	expect	max.err	error counts
 227	8	0.0	4	0 7 0 1
 228	41	0.0	4	11 22 1 3 4
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505078_27_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505078_27_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505078_27_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505078_27_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.343 s (14.473 µs/read; 4.15 M reads/minute).
+Finished in 0.357 s (15.077 µs/read; 3.98 M reads/minute).
 
 === Summary ===
 
@@ -6035,9 +6035,9 @@ length	count	expect	max.err	error counts
 226	3	0.0	4	3
 228	6	0.0	4	4 1 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505079_28_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505079_28_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505079_28_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505079_28_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 2.416 s (16.072 µs/read; 3.73 M reads/minute).
+Finished in 2.538 s (16.880 µs/read; 3.55 M reads/minute).
 
 === Summary ===
 
@@ -6267,9 +6267,9 @@ length	count	expect	max.err	error counts
 227	7	0.0	4	0 4 0 3
 228	10	0.0	4	8 1 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505080_29_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505080_29_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505080_29_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505080_29_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.285 s (13.103 µs/read; 4.58 M reads/minute).
+Finished in 0.302 s (13.872 µs/read; 4.33 M reads/minute).
 
 === Summary ===
 
@@ -6495,9 +6495,9 @@ length	count	expect	max.err	error counts
 228	13	0.0	4	10 2 0 1
 229	2	0.0	4	2
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505081_30_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505081_30_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505081_30_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505081_30_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.283 s (13.830 µs/read; 4.34 M reads/minute).
+Finished in 0.288 s (14.085 µs/read; 4.26 M reads/minute).
 
 === Summary ===
 
@@ -6688,9 +6688,9 @@ length	count	expect	max.err	error counts
 223	1	0.0	4	1
 228	3	0.0	4	1 0 1 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505082_31_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505082_31_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505082_31_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505082_31_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.216 s (12.959 µs/read; 4.63 M reads/minute).
+Finished in 0.228 s (13.672 µs/read; 4.39 M reads/minute).
 
 === Summary ===
 
@@ -6863,9 +6863,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505083_32_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505083_32_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505083_32_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505083_32_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.335 s (15.326 µs/read; 3.91 M reads/minute).
+Finished in 0.314 s (14.378 µs/read; 4.17 M reads/minute).
 
 === Summary ===
 
@@ -7088,9 +7088,9 @@ length	count	expect	max.err	error counts
 225	1	0.0	4	1
 228	9	0.0	4	6 2 0 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505084_33_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505084_33_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505084_33_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505084_33_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.557 s (15.272 µs/read; 3.93 M reads/minute).
+Finished in 0.610 s (16.734 µs/read; 3.59 M reads/minute).
 
 === Summary ===
 
@@ -7338,9 +7338,9 @@ length	count	expect	max.err	error counts
 228	81	0.0	4	64 9 5 2 1
 229	2	0.0	4	2
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505085_34_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505085_34_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505085_34_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505085_34_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.498 s (15.565 µs/read; 3.85 M reads/minute).
+Finished in 0.489 s (15.295 µs/read; 3.92 M reads/minute).
 
 === Summary ===
 
@@ -7562,9 +7562,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505086_35_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505086_35_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505086_35_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505086_35_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.240 s (14.694 µs/read; 4.08 M reads/minute).
+Finished in 0.236 s (14.470 µs/read; 4.15 M reads/minute).
 
 === Summary ===
 
@@ -7757,9 +7757,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505087_36_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505087_36_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505087_36_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505087_36_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.303 s (18.262 µs/read; 3.29 M reads/minute).
+Finished in 0.333 s (20.044 µs/read; 2.99 M reads/minute).
 
 === Summary ===
 
@@ -7899,9 +7899,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505088_37_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505088_37_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505088_37_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505088_37_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.327 s (15.890 µs/read; 3.78 M reads/minute).
+Finished in 0.353 s (17.140 µs/read; 3.50 M reads/minute).
 
 === Summary ===
 
@@ -8045,9 +8045,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505089_38_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505089_38_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505089_38_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505089_38_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.253 s (14.901 µs/read; 4.03 M reads/minute).
+Finished in 0.243 s (14.308 µs/read; 4.19 M reads/minute).
 
 === Summary ===
 
@@ -8207,9 +8207,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505090_39_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505090_39_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505090_39_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505090_39_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.470 s (15.686 µs/read; 3.83 M reads/minute).
+Finished in 0.475 s (15.839 µs/read; 3.79 M reads/minute).
 
 === Summary ===
 
@@ -8408,9 +8408,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505091_40_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505091_40_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505091_40_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505091_40_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.741 s (17.160 µs/read; 3.50 M reads/minute).
+Finished in 1.713 s (16.881 µs/read; 3.55 M reads/minute).
 
 === Summary ===
 
@@ -8659,9 +8659,9 @@ length	count	expect	max.err	error counts
 227	29	0.0	4	26 3
 228	156	0.0	4	111 31 6 3 5
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505092_41_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505092_41_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505092_41_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505092_41_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.244 s (14.655 µs/read; 4.09 M reads/minute).
+Finished in 0.316 s (18.984 µs/read; 3.16 M reads/minute).
 
 === Summary ===
 
@@ -8855,9 +8855,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505093_42_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505093_42_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505093_42_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505093_42_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.188 s (13.150 µs/read; 4.56 M reads/minute).
+Finished in 0.197 s (13.767 µs/read; 4.36 M reads/minute).
 
 === Summary ===
 
@@ -9026,9 +9026,9 @@ length	count	expect	max.err	error counts
 190	1	0.0	4	1
 191	1	0.0	4	1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505094_43_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505094_43_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505094_43_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505094_43_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.702 s (15.961 µs/read; 3.76 M reads/minute).
+Finished in 0.661 s (15.014 µs/read; 4.00 M reads/minute).
 
 === Summary ===
 
@@ -9219,9 +9219,9 @@ length	count	expect	max.err	error counts
 222	1	0.0	4	0 0 0 1
 223	1	0.0	4	1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505095_44_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505095_44_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505095_44_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505095_44_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 2.007 s (18.542 µs/read; 3.24 M reads/minute).
+Finished in 1.758 s (16.242 µs/read; 3.69 M reads/minute).
 
 === Summary ===
 
@@ -9469,9 +9469,9 @@ length	count	expect	max.err	error counts
 229	1	0.0	4	1
 236	1	0.0	4	1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505096_45_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505096_45_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505096_45_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505096_45_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 3.604 s (18.506 µs/read; 3.24 M reads/minute).
+Finished in 3.376 s (17.337 µs/read; 3.46 M reads/minute).
 
 === Summary ===
 
@@ -9717,79 +9717,79 @@ length	count	expect	max.err	error counts
 226	1	0.0	4	1
 228	98	0.0	4	34 49 6 6 3
 229	1	0.0	4	0 1
-cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505074_23_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505074_23_L001_R1_001.fastq.gz
+cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505074_23_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505074_23_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505075_24_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505075_24_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505075_24_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505075_24_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505076_25_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505076_25_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505076_25_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505076_25_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505077_26_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505077_26_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505077_26_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505077_26_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505078_27_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505078_27_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505078_27_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505078_27_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505079_28_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505079_28_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505079_28_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505079_28_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505080_29_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505080_29_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505080_29_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505080_29_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505081_30_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505081_30_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505081_30_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505081_30_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505082_31_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505082_31_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505082_31_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505082_31_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505083_32_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505083_32_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505083_32_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505083_32_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505084_33_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505084_33_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505084_33_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505084_33_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505085_34_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505085_34_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505085_34_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505085_34_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505086_35_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505086_35_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505086_35_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505086_35_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505087_36_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505087_36_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505087_36_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505087_36_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505088_37_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505088_37_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505088_37_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505088_37_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505089_38_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505089_38_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505089_38_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505089_38_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505090_39_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505090_39_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505090_39_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505090_39_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505091_40_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505091_40_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505091_40_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505091_40_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505092_41_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505092_41_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505092_41_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505092_41_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505093_42_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505093_42_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505093_42_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505093_42_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505094_43_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505094_43_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505094_43_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505094_43_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505095_44_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505095_44_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505095_44_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505095_44_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505096_45_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505096_45_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505096_45_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505096_45_L001_R1_001.fastq.gz
 
 
 Command: This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505097_46_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505097_46_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505097_46_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505097_46_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 7.351 s (14.969 µs/read; 4.01 M reads/minute).
+Finished in 7.373 s (15.013 µs/read; 4.00 M reads/minute).
 
 === Summary ===
 
@@ -10049,9 +10049,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505098_47_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505098_47_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505098_47_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505098_47_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.692 s (18.969 µs/read; 3.16 M reads/minute).
+Finished in 1.827 s (20.481 µs/read; 2.93 M reads/minute).
 
 === Summary ===
 
@@ -10300,9 +10300,9 @@ length	count	expect	max.err	error counts
 229	14	0.0	4	3 0 0 0 11
 230	4	0.0	4	0 0 0 2 2
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505099_48_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505099_48_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505099_48_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505099_48_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.586 s (13.987 µs/read; 4.29 M reads/minute).
+Finished in 0.544 s (12.990 µs/read; 4.62 M reads/minute).
 
 === Summary ===
 
@@ -10526,9 +10526,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505100_49_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505100_49_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505100_49_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505100_49_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.267 s (15.057 µs/read; 3.98 M reads/minute).
+Finished in 0.268 s (15.066 µs/read; 3.98 M reads/minute).
 
 === Summary ===
 
@@ -10709,9 +10709,9 @@ length	count	expect	max.err	error counts
 227	1	0.0	4	1
 228	1	0.0	4	0 0 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505101_50_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505101_50_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505101_50_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505101_50_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.816 s (15.510 µs/read; 3.87 M reads/minute).
+Finished in 0.800 s (15.198 µs/read; 3.95 M reads/minute).
 
 === Summary ===
 
@@ -10955,9 +10955,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505102_51_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505102_51_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505102_51_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505102_51_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.272 s (14.122 µs/read; 4.25 M reads/minute).
+Finished in 0.286 s (14.834 µs/read; 4.04 M reads/minute).
 
 === Summary ===
 
@@ -11123,9 +11123,9 @@ length	count	expect	max.err	error counts
 214	1	0.0	4	1
 228	1	0.0	4	1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505103_52_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505103_52_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505103_52_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505103_52_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 2.245 s (17.464 µs/read; 3.44 M reads/minute).
+Finished in 1.950 s (15.172 µs/read; 3.95 M reads/minute).
 
 === Summary ===
 
@@ -11333,9 +11333,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505104_53_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505104_53_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505104_53_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505104_53_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 2.529 s (18.213 µs/read; 3.29 M reads/minute).
+Finished in 2.231 s (16.068 µs/read; 3.73 M reads/minute).
 
 === Summary ===
 
@@ -11573,9 +11573,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505105_54_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505105_54_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505105_54_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505105_54_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.318 s (16.108 µs/read; 3.72 M reads/minute).
+Finished in 0.297 s (15.047 µs/read; 3.99 M reads/minute).
 
 === Summary ===
 
@@ -11763,9 +11763,9 @@ length	count	expect	max.err	error counts
 227	1	0.0	4	1
 228	3	0.0	4	2 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505106_55_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505106_55_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505106_55_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505106_55_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.183 s (15.957 µs/read; 3.76 M reads/minute).
+Finished in 0.197 s (17.209 µs/read; 3.49 M reads/minute).
 
 === Summary ===
 
@@ -11975,9 +11975,9 @@ length	count	expect	max.err	error counts
 226	1	0.0	4	1
 228	1	0.0	4	1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505107_56_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505107_56_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505107_56_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505107_56_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.621 s (16.393 µs/read; 3.66 M reads/minute).
+Finished in 1.603 s (16.204 µs/read; 3.70 M reads/minute).
 
 === Summary ===
 
@@ -12231,9 +12231,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505108_57_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505108_57_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505108_57_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505108_57_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.705 s (16.733 µs/read; 3.59 M reads/minute).
+Finished in 1.723 s (16.910 µs/read; 3.55 M reads/minute).
 
 === Summary ===
 
@@ -12415,9 +12415,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505109_58_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505109_58_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505109_58_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505109_58_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.198 s (13.834 µs/read; 4.34 M reads/minute).
+Finished in 0.198 s (13.839 µs/read; 4.34 M reads/minute).
 
 === Summary ===
 
@@ -12622,9 +12622,9 @@ length	count	expect	max.err	error counts
 223	1	0.0	4	1
 226	1	0.0	4	1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505110_59_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505110_59_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505110_59_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505110_59_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.539 s (18.124 µs/read; 3.31 M reads/minute).
+Finished in 0.484 s (16.254 µs/read; 3.69 M reads/minute).
 
 === Summary ===
 
@@ -12834,9 +12834,9 @@ length	count	expect	max.err	error counts
 225	2	0.0	4	1 1
 228	3	0.0	4	1 1 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505111_60_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505111_60_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505111_60_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505111_60_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.289 s (16.765 µs/read; 3.58 M reads/minute).
+Finished in 1.263 s (16.429 µs/read; 3.65 M reads/minute).
 
 === Summary ===
 
@@ -13071,9 +13071,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505112_61_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505112_61_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505112_61_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505112_61_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 4.442 s (15.421 µs/read; 3.89 M reads/minute).
+Finished in 4.392 s (15.249 µs/read; 3.93 M reads/minute).
 
 === Summary ===
 
@@ -13331,9 +13331,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505113_62_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505113_62_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505113_62_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505113_62_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.669 s (17.091 µs/read; 3.51 M reads/minute).
+Finished in 0.662 s (16.924 µs/read; 3.55 M reads/minute).
 
 === Summary ===
 
@@ -13569,9 +13569,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505114_63_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505114_63_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505114_63_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505114_63_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.727 s (16.383 µs/read; 3.66 M reads/minute).
+Finished in 0.669 s (15.079 µs/read; 3.98 M reads/minute).
 
 === Summary ===
 
@@ -13788,9 +13788,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505115_64_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505115_64_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505115_64_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505115_64_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.156 s (13.684 µs/read; 4.38 M reads/minute).
+Finished in 0.154 s (13.495 µs/read; 4.45 M reads/minute).
 
 === Summary ===
 
@@ -13954,9 +13954,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505116_65_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505116_65_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505116_65_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505116_65_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.022 s (17.095 µs/read; 3.51 M reads/minute).
+Finished in 0.993 s (16.608 µs/read; 3.61 M reads/minute).
 
 === Summary ===
 
@@ -14196,9 +14196,9 @@ length	count	expect	max.err	error counts
 227	2	0.0	4	1 0 1
 228	10	0.0	4	8 1 0 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505117_66_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505117_66_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505117_66_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505117_66_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.617 s (16.296 µs/read; 3.68 M reads/minute).
+Finished in 1.573 s (15.845 µs/read; 3.79 M reads/minute).
 
 === Summary ===
 
@@ -14381,9 +14381,9 @@ length	count	expect	max.err	error counts
 224	2	0.0	4	0 0 1 1
 228	2	0.0	4	2
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505118_67_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505118_67_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505118_67_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505118_67_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.010 s (16.934 µs/read; 3.54 M reads/minute).
+Finished in 0.998 s (16.727 µs/read; 3.59 M reads/minute).
 
 === Summary ===
 
@@ -14629,9 +14629,9 @@ length	count	expect	max.err	error counts
 227	3	0.0	4	0 0 1 1 1
 228	7	0.0	4	1 0 0 2 4
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505119_68_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505119_68_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505119_68_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505119_68_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.428 s (14.756 µs/read; 4.07 M reads/minute).
+Finished in 0.406 s (13.968 µs/read; 4.30 M reads/minute).
 
 === Summary ===
 
@@ -14828,79 +14828,79 @@ length	count	expect	max.err	error counts
 225	1	0.0	4	1
 227	1	0.0	4	0 0 0 0 1
 228	1	0.0	4	1
-cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505097_46_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505097_46_L001_R1_001.fastq.gz
+cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505097_46_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505097_46_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505098_47_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505098_47_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505098_47_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505098_47_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505099_48_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505099_48_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505099_48_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505099_48_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505100_49_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505100_49_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505100_49_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505100_49_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505101_50_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505101_50_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505101_50_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505101_50_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505102_51_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505102_51_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505102_51_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505102_51_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505103_52_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505103_52_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505103_52_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505103_52_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505104_53_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505104_53_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505104_53_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505104_53_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505105_54_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505105_54_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505105_54_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505105_54_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505106_55_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505106_55_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505106_55_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505106_55_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505107_56_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505107_56_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505107_56_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505107_56_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505108_57_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505108_57_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505108_57_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505108_57_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505109_58_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505109_58_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505109_58_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505109_58_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505110_59_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505110_59_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505110_59_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505110_59_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505111_60_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505111_60_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505111_60_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505111_60_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505112_61_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505112_61_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505112_61_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505112_61_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505113_62_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505113_62_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505113_62_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505113_62_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505114_63_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505114_63_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505114_63_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505114_63_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505115_64_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505115_64_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505115_64_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505115_64_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505116_65_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505116_65_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505116_65_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505116_65_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505117_66_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505117_66_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505117_66_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505117_66_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505118_67_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505118_67_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505118_67_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505118_67_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505119_68_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505119_68_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505119_68_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505119_68_L001_R1_001.fastq.gz
 
 
 Command: This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505120_69_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505120_69_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505120_69_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505120_69_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.238 s (13.668 µs/read; 4.39 M reads/minute).
+Finished in 0.263 s (15.095 µs/read; 3.97 M reads/minute).
 
 === Summary ===
 
@@ -15086,9 +15086,9 @@ length	count	expect	max.err	error counts
 202	1	0.0	4	0 0 0 0 1
 215	1	0.0	4	0 0 0 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505121_70_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505121_70_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505121_70_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505121_70_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.250 s (13.029 µs/read; 4.61 M reads/minute).
+Finished in 0.251 s (13.075 µs/read; 4.59 M reads/minute).
 
 === Summary ===
 
@@ -15312,9 +15312,9 @@ length	count	expect	max.err	error counts
 228	3	0.0	4	0 1 0 1 1
 229	1	0.0	4	0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505122_71_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505122_71_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505122_71_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505122_71_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.225 s (13.767 µs/read; 4.36 M reads/minute).
+Finished in 0.234 s (14.352 µs/read; 4.18 M reads/minute).
 
 === Summary ===
 
@@ -15481,9 +15481,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505123_72_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505123_72_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505123_72_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505123_72_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 4.266 s (18.589 µs/read; 3.23 M reads/minute).
+Finished in 4.124 s (17.973 µs/read; 3.34 M reads/minute).
 
 === Summary ===
 
@@ -15738,9 +15738,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505124_73_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505124_73_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505124_73_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505124_73_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.132 s (14.469 µs/read; 4.15 M reads/minute).
+Finished in 1.134 s (14.492 µs/read; 4.14 M reads/minute).
 
 === Summary ===
 
@@ -15983,9 +15983,9 @@ length	count	expect	max.err	error counts
 227	2	0.0	4	1 0 1
 228	6	0.0	4	3 1 0 2
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505125_74_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505125_74_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505125_74_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505125_74_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.459 s (17.364 µs/read; 3.46 M reads/minute).
+Finished in 1.425 s (16.958 µs/read; 3.54 M reads/minute).
 
 === Summary ===
 
@@ -16234,9 +16234,9 @@ length	count	expect	max.err	error counts
 228	138	0.0	4	100 20 13 5
 229	1	0.0	4	1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505126_75_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505126_75_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505126_75_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505126_75_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.057 s (17.343 µs/read; 3.46 M reads/minute).
+Finished in 0.973 s (15.979 µs/read; 3.76 M reads/minute).
 
 === Summary ===
 
@@ -16465,9 +16465,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505127_76_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505127_76_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505127_76_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505127_76_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.927 s (18.233 µs/read; 3.29 M reads/minute).
+Finished in 2.023 s (19.142 µs/read; 3.13 M reads/minute).
 
 === Summary ===
 
@@ -16715,9 +16715,9 @@ length	count	expect	max.err	error counts
 228	118	0.0	4	87 16 7 6 2
 229	4	0.0	4	3 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505128_77_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505128_77_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505128_77_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505128_77_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.949 s (16.913 µs/read; 3.55 M reads/minute).
+Finished in 0.978 s (17.419 µs/read; 3.44 M reads/minute).
 
 === Summary ===
 
@@ -16958,9 +16958,9 @@ length	count	expect	max.err	error counts
 225	2	0.0	4	2
 228	16	0.0	4	8 3 2 3
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505129_78_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505129_78_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505129_78_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505129_78_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.406 s (13.486 µs/read; 4.45 M reads/minute).
+Finished in 1.481 s (14.211 µs/read; 4.22 M reads/minute).
 
 === Summary ===
 
@@ -17199,9 +17199,9 @@ length	count	expect	max.err	error counts
 223	3	0.0	4	0 0 0 0 3
 228	4	0.0	4	0 0 0 0 4
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505130_79_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505130_79_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505130_79_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505130_79_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.984 s (14.687 µs/read; 4.09 M reads/minute).
+Finished in 0.958 s (14.304 µs/read; 4.19 M reads/minute).
 
 === Summary ===
 
@@ -17443,9 +17443,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505131_80_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505131_80_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505131_80_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505131_80_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.988 s (17.171 µs/read; 3.49 M reads/minute).
+Finished in 0.999 s (17.360 µs/read; 3.46 M reads/minute).
 
 === Summary ===
 
@@ -17691,9 +17691,9 @@ length	count	expect	max.err	error counts
 227	3	0.0	4	0 3
 228	35	0.0	4	22 9 1 2 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505132_81_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505132_81_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505132_81_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505132_81_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.534 s (19.363 µs/read; 3.10 M reads/minute).
+Finished in 0.425 s (15.422 µs/read; 3.89 M reads/minute).
 
 === Summary ===
 
@@ -17830,9 +17830,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505133_82_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505133_82_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505133_82_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505133_82_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.266 s (14.809 µs/read; 4.05 M reads/minute).
+Finished in 0.262 s (14.574 µs/read; 4.12 M reads/minute).
 
 === Summary ===
 
@@ -17973,9 +17973,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505134_83_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505134_83_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505134_83_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505134_83_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.295 s (16.315 µs/read; 3.68 M reads/minute).
+Finished in 0.294 s (16.261 µs/read; 3.69 M reads/minute).
 
 === Summary ===
 
@@ -18133,9 +18133,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505135_84_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505135_84_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505135_84_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505135_84_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.094 s (15.661 µs/read; 3.83 M reads/minute).
+Finished in 1.091 s (15.624 µs/read; 3.84 M reads/minute).
 
 === Summary ===
 
@@ -18380,9 +18380,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505136_85_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505136_85_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505136_85_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505136_85_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.103 s (15.349 µs/read; 3.91 M reads/minute).
+Finished in 1.072 s (14.924 µs/read; 4.02 M reads/minute).
 
 === Summary ===
 
@@ -18558,9 +18558,9 @@ length	count	expect	max.err	error counts
 227	3	0.0	4	0 3
 228	2	0.0	4	1 0 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505137_86_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505137_86_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505137_86_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505137_86_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.418 s (15.283 µs/read; 3.93 M reads/minute).
+Finished in 0.436 s (15.938 µs/read; 3.76 M reads/minute).
 
 === Summary ===
 
@@ -18739,9 +18739,9 @@ length	count	expect	max.err	error counts
 223	2	0.0	4	2
 225	2	0.0	4	1 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505138_87_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505138_87_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505138_87_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505138_87_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.422 s (15.272 µs/read; 3.93 M reads/minute).
+Finished in 0.428 s (15.472 µs/read; 3.88 M reads/minute).
 
 === Summary ===
 
@@ -18937,9 +18937,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505139_88_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505139_88_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505139_88_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505139_88_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.589 s (12.450 µs/read; 4.82 M reads/minute).
+Finished in 0.612 s (12.945 µs/read; 4.64 M reads/minute).
 
 === Summary ===
 
@@ -19190,9 +19190,9 @@ length	count	expect	max.err	error counts
 229	4	0.0	4	1 0 1 1 1
 230	1	0.0	4	0 0 0 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505140_89_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505140_89_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505140_89_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505140_89_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 6.022 s (18.910 µs/read; 3.17 M reads/minute).
+Finished in 5.854 s (18.380 µs/read; 3.26 M reads/minute).
 
 === Summary ===
 
@@ -19428,9 +19428,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505141_90_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505141_90_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505141_90_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505141_90_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 2.259 s (18.351 µs/read; 3.27 M reads/minute).
+Finished in 2.148 s (17.450 µs/read; 3.44 M reads/minute).
 
 === Summary ===
 
@@ -19677,9 +19677,9 @@ length	count	expect	max.err	error counts
 228	257	0.0	4	181 49 13 9 5
 229	3	0.0	4	3
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505142_91_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505142_91_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505142_91_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505142_91_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.733 s (17.985 µs/read; 3.34 M reads/minute).
+Finished in 0.738 s (18.106 µs/read; 3.31 M reads/minute).
 
 === Summary ===
 
@@ -19901,79 +19901,79 @@ length	count	expect	max.err	error counts
 221	1	0.0	4	1
 222	1	0.0	4	1
 228	5	0.0	4	3 2
-cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505120_69_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505120_69_L001_R1_001.fastq.gz
+cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505120_69_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505120_69_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505121_70_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505121_70_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505121_70_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505121_70_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505122_71_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505122_71_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505122_71_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505122_71_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505123_72_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505123_72_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505123_72_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505123_72_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505124_73_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505124_73_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505124_73_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505124_73_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505125_74_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505125_74_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505125_74_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505125_74_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505126_75_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505126_75_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505126_75_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505126_75_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505127_76_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505127_76_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505127_76_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505127_76_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505128_77_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505128_77_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505128_77_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505128_77_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505129_78_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505129_78_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505129_78_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505129_78_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505130_79_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505130_79_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505130_79_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505130_79_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505131_80_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505131_80_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505131_80_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505131_80_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505132_81_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505132_81_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505132_81_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505132_81_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505133_82_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505133_82_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505133_82_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505133_82_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505134_83_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505134_83_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505134_83_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505134_83_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505135_84_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505135_84_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505135_84_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505135_84_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505136_85_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505136_85_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505136_85_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505136_85_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505137_86_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505137_86_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505137_86_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505137_86_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505138_87_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505138_87_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505138_87_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505138_87_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505139_88_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505139_88_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505139_88_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505139_88_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505140_89_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505140_89_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505140_89_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505140_89_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505141_90_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505141_90_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505141_90_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505141_90_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505142_91_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505142_91_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505142_91_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505142_91_L001_R1_001.fastq.gz
 
 
 Command: This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505143_92_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505143_92_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505143_92_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505143_92_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 4.093 s (17.086 µs/read; 3.51 M reads/minute).
+Finished in 4.195 s (17.510 µs/read; 3.43 M reads/minute).
 
 === Summary ===
 
@@ -20232,9 +20232,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505144_93_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505144_93_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505144_93_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505144_93_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.352 s (15.366 µs/read; 3.90 M reads/minute).
+Finished in 0.317 s (13.865 µs/read; 4.33 M reads/minute).
 
 === Summary ===
 
@@ -20431,9 +20431,9 @@ length	count	expect	max.err	error counts
 227	1	0.0	4	1
 228	1	0.0	4	1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505145_94_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505145_94_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505145_94_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505145_94_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.182 s (13.375 µs/read; 4.49 M reads/minute).
+Finished in 0.250 s (18.322 µs/read; 3.27 M reads/minute).
 
 === Summary ===
 
@@ -20576,9 +20576,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505146_95_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505146_95_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505146_95_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505146_95_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.132 s (16.255 µs/read; 3.69 M reads/minute).
+Finished in 1.120 s (16.073 µs/read; 3.73 M reads/minute).
 
 === Summary ===
 
@@ -20825,9 +20825,9 @@ length	count	expect	max.err	error counts
 228	98	0.0	4	71 15 5 6 1
 229	3	0.0	4	0 2 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505147_96_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505147_96_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505147_96_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505147_96_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.876 s (18.035 µs/read; 3.33 M reads/minute).
+Finished in 1.965 s (18.891 µs/read; 3.18 M reads/minute).
 
 === Summary ===
 
@@ -21072,9 +21072,9 @@ length	count	expect	max.err	error counts
 228	89	0.0	4	63 14 5 2 5
 229	1	0.0	4	1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505148_97_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505148_97_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505148_97_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505148_97_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.451 s (14.696 µs/read; 4.08 M reads/minute).
+Finished in 0.462 s (15.067 µs/read; 3.98 M reads/minute).
 
 === Summary ===
 
@@ -21291,9 +21291,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505149_98_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505149_98_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505149_98_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505149_98_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.485 s (13.488 µs/read; 4.45 M reads/minute).
+Finished in 1.568 s (14.239 µs/read; 4.21 M reads/minute).
 
 === Summary ===
 
@@ -21543,9 +21543,9 @@ length	count	expect	max.err	error counts
 228	59	0.0	4	23 3 14 5 14
 229	2	0.0	4	0 1 0 0 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505150_99_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505150_99_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505150_99_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505150_99_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 1.208 s (12.979 µs/read; 4.62 M reads/minute).
+Finished in 1.227 s (13.184 µs/read; 4.55 M reads/minute).
 
 === Summary ===
 
@@ -21783,9 +21783,9 @@ length	count	expect	max.err	error counts
 226	2	0.0	4	2
 228	16	0.0	4	15 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505151_100_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505151_100_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505151_100_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505151_100_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 2.300 s (17.627 µs/read; 3.40 M reads/minute).
+Finished in 2.275 s (17.436 µs/read; 3.44 M reads/minute).
 
 === Summary ===
 
@@ -22033,9 +22033,9 @@ length	count	expect	max.err	error counts
 227	36	0.0	4	2 1 23 9 1
 228	116	0.0	4	79 19 10 7 1
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505152_101_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505152_101_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505152_101_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505152_101_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 3.189 s (17.917 µs/read; 3.35 M reads/minute).
+Finished in 3.326 s (18.681 µs/read; 3.21 M reads/minute).
 
 === Summary ===
 
@@ -22289,9 +22289,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505153_102_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505153_102_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505153_102_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505153_102_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.560 s (16.005 µs/read; 3.75 M reads/minute).
+Finished in 0.471 s (13.450 µs/read; 4.46 M reads/minute).
 
 === Summary ===
 
@@ -22525,9 +22525,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505154_103_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505154_103_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505154_103_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505154_103_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.303 s (16.191 µs/read; 3.71 M reads/minute).
+Finished in 0.293 s (15.690 µs/read; 3.82 M reads/minute).
 
 === Summary ===
 
@@ -22726,9 +22726,9 @@ WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
 This is cutadapt 4.9 with Python 3.9.19
-Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505155_104_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505155_104_L001_R1_001.fastq.gz
+Command line parameters: --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505155_104_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505155_104_L001_R1_001.fastq.gz
 Processing single-end reads on 1 core ...
-Finished in 0.571 s (17.638 µs/read; 3.40 M reads/minute).
+Finished in 0.513 s (15.855 µs/read; 3.78 M reads/minute).
 
 === Summary ===
 
@@ -22946,42 +22946,42 @@ length	count	expect	max.err	error counts
 WARNING:
     One or more of your adapter sequences may be incomplete.
     Please see the detailed output above.
-cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505143_92_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505143_92_L001_R1_001.fastq.gz
+cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505143_92_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505143_92_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505144_93_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505144_93_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505144_93_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505144_93_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505145_94_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505145_94_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505145_94_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505145_94_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505146_95_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505146_95_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505146_95_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505146_95_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505147_96_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505147_96_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505147_96_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505147_96_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505148_97_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505148_97_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505148_97_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505148_97_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505149_98_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505149_98_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505149_98_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505149_98_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505150_99_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505150_99_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505150_99_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505150_99_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505151_100_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505151_100_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505151_100_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505151_100_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505152_101_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505152_101_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505152_101_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505152_101_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505153_102_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505153_102_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505153_102_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505153_102_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505154_103_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505154_103_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505154_103_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505154_103_L001_R1_001.fastq.gz
 
 
-Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-jqrwxidv/SRR10505155_104_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/ee3607d5-b57e-4fc5-8b41-5b63ecf051b9/data/SRR10505155_104_L001_R1_001.fastq.gz
+Command: cutadapt --cores 1 --error-rate 0.2 --times 1 --overlap 16 --minimum-length 1 -q 0,0 --quality-base 33 -o /tmp/q2-CasavaOneEightSingleLanePerSampleDirFmt-49dcobb7/SRR10505155_104_L001_R1_001.fastq.gz --adapter GCATCGATGAAGAACGCAGC /tmp/qiime2/jovyan/data/56c8c939-5f46-4211-a8db-43e813d45a05/data/SRR10505155_104_L001_R1_001.fastq.gz
 
-Saved SampleData[SequencesWithQuality] to: data/pundemic_forward_reads_trimmed_QCfiltered_2.qza
+Saved SampleData[SequencesWithQuality] to: data/preprocessing/pundemic_forward_reads_trimmed_QCfiltered_2.qza
