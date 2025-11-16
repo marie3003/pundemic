@@ -1,1 +1,7 @@
 # Pundemic
+
+This study investigates the gut mycobiome's role in the "Pundemic" disease, a unique condition characterized by excessive pun-making, and evaluates the efficacy of fecal microbiota transplantation (FMT) as a potential treatment. Using ITS sequencing and QIIME2-based analysis, we examined fungal diversity and composition in samples collected from Pundemic patients, healthy controls, and FMT recipients.
+While fungal alpha and beta diversity distinguished healthy individuals from diseased patients, no significant changes were observed in fungal communities throughout the treatment. Differential abundance and functional predictions showed no disease-specific fungal markers or significant shifts after treatment.
+These findings suggest that the fungal microbiome remains stable in Pundemic patients throughout treatment, with limited evidence supporting the role of FMT in altering fungal diversity or composition. Future studies with larger cohorts and advanced methodologies are needed to explore the fungal microbiome's potential involvement in this peculiar condition and its treatment.
+
+This repository contains steps 1 to 7 in our microbiome analysis as part of the Applied Bioinformatics: Microbiomes course at ETH Zurich as well as our project report.
